@@ -1,16 +1,21 @@
 body > footer {
   @extend .sans;
-  font-size: .8em;
+  font-size: .5em;
   color: $footer-color;
   text-shadow: lighten($footer-bg, 5) 0 1px;
   background-color: $footer-bg;
   position: relative;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  margin-bottom: 3em;
   z-index: 1;
   a {
     @include link-colors($footer-link-color, $footer-link-color-hover, $visited: $footer-link-color);
   }
   p:last-child { margin-bottom: 0; }
+}
+body > footer img#octocat {
+  vertical-align: -35%;
+  margin-left: 0.4em;
+}
+body > footer img#creativecommons {
+  vertical-align: -30%;
+  margin-right: 0.4em;
 }
