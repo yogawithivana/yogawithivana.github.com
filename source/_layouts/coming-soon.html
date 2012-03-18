@@ -1,0 +1,23 @@
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
+{% include head.html %}
+<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} class="no-sidebar">
+  <header role="banner">{% include header.html %}</header>
+  <div id="main">
+    <div id="content">
+      {{ content | expand_urls: root_url }}
+      <section id="coming-soon">
+        <h1>The new site is on its way!</h1>
+        <p class="vcard">
+          <span class="fn">Ivana Miletic Demmel</span>
+          <a href="mailto:me@yogawithivana.com"><span class="email">me@yogawithivana.com</span></a>
+          <span class="tel">+447936348233</span>
+        </p>
+        <div id="spacer">
+      </section>
+    </div>
+  </div>
+  <div id="birdfeet"></div>
+  <footer role="contentinfo">{% include footer.html %}</footer>
+  {% include after_footer.html %}
+</body>
+</html>
