@@ -2,6 +2,13 @@
 // To give it a try, uncomment some of the lines below, make changes, rebuild your blog, and see how it works.
 
 $page-bg-image: 'page-bg.jpg';
+
+$max-width: 940px;
+
+body {
+  height: 100%;
+}
+
 //$header-font-size: 1em;
 //$header-padding-top: 1.5em;
 //$header-padding-bottom: 1.5em;
