@@ -70,8 +70,9 @@ a {
   @include transition(color .3s);
 }
 
+$page-bg-image: 'line-tile.png' !default;
 html {
-  background: $page-bg image-url('line-tile.png') top left;
+  background: $page-bg image-url($page-bg-image) top left;
 }
 body {
   > div {
