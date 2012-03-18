@@ -3,7 +3,7 @@ body > footer {
   font-size: .5em;
   color: $footer-color;
   text-shadow: lighten($footer-bg, 5) 0 1px;
-  background-color: $footer-bg;
+  background: $footer-bg $noise-bg;
   position: relative;
   z-index: 1;
   a {
