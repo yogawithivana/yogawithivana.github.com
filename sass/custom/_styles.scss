@@ -3,3 +3,47 @@
 body {
   @include box-shadow(rgba(0,0,0,0.4) 0px 0px 50px);
 }
+body > header h1 > a > span {
+  display: none;
+}
+body > header h1 > a {
+  background: $header-bg image-url("logo.jpg") top left no-repeat;
+  display: block;
+  width: 242px;
+  height: 81px;
+}
+body > header {
+  text-align: center;
+}
+section#coming-soon {
+  padding-top: 5em;
+  text-align: center;
+}
+section#coming-soon > h1 {
+  font-size: 2.5em;
+}
+p.vcard > span {
+  display: block;
+}
+p.vcard > span.fn {
+  font-size: 2em;
+  font-family: $heading-font-family;
+}
+p.vcard > span.tel {
+  font-weight: bold;
+  color: $highlight-color;
+}
+section#coming-soon > div#spacer {
+  display: block;
+  height: 15em;
+}
+body > div#birdfeet {
+  background: image-url("Bird-Feet.png") top left no-repeat;
+  display: block;
+  width: 167px;
+  height: 277px;
+  position: absolute;
+  top: 30px;
+  left: 70px;
+  border-bottom: 0px solid #fff;
+}
