@@ -18,6 +18,7 @@ body > header {
 section#coming-soon {
   padding-top: 5em;
   text-align: center;
+  min-height: 25em;
 }
 section#coming-soon > h1 {
   font-size: 2.5em;
@@ -33,17 +34,45 @@ p.vcard > span.tel {
   font-weight: bold;
   color: $highlight-color;
 }
-section#coming-soon > div#spacer {
+
+// decorative images
+body > div.decor-img {
   display: block;
-  height: 15em;
+  border-bottom: 0px solid #fff;
+  position: absolute;
 }
 body > div#birdfeet {
   background: image-url("Bird-Feet.png") top left no-repeat;
-  display: block;
-  position: absolute;
-  border-bottom: 0px solid #fff;
   width: 134px;
   height: 222px;
   top: 19px;
   left: 24px;
+}
+body > div#left-leaf-bottom {
+  background: image-url("left-leaf-bottom.png") top left no-repeat;
+  width: 43px;
+  height: 93px;
+  top: 600px;
+  left: -43px;
+}
+body > div#left-leaf-top {
+  background: image-url("left-leaf-top.png") top left no-repeat;
+  width: 65px;
+  height: 79px;
+  top: 546px;
+  left: -53px;
+}
+body > div#right-leaf-bottom {
+  background: image-url("right-leaf-bottom.png") top left no-repeat;
+  width: 70px;
+  height: 406px;
+  top: 330px;
+  right: -70px;
+}
+body > div#right-leaf-top {
+  background: image-url("right-leaf-top.png") top left no-repeat;
+  width: 115px;
+  height: 72px;
+  top: 260px;
+  right: -63px;
 }
