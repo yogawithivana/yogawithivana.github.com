@@ -23,7 +23,8 @@ section#coming-soon {
 section#coming-soon > h1 {
   font-size: 2.5em;
 }
-p.vcard > span {
+p.vcard > span,
+p.vcard > a {
   display: block;
 }
 p.vcard > span.fn {
