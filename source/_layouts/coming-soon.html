@@ -6,7 +6,6 @@
   <header role="banner">{% include header.html %}</header>
   <div id="main">
     <div id="content">
-      {{ content | expand_urls: root_url }}
       <section id="coming-soon">
         <h1>The new site is on its way!</h1>
         <p class="vcard">
@@ -15,6 +14,7 @@
           <a href="https://www.facebook.com/yogawithivana"><span class="facebook">facebook.com/yogawithivana</span></a>
           <span class="tel">+447936348233</span>
         </p>
+        {{ content | expand_urls: root_url }}
       </section>
     </div>
   </div>
