@@ -23,6 +23,11 @@ section#coming-soon {
 section#coming-soon > h1 {
   font-size: 2.5em;
 }
+section > p {
+  max-width: 30em;
+  margin-left: auto;
+  margin-right: auto;
+}
 p.vcard > span,
 p.vcard > a {
   display: block;
