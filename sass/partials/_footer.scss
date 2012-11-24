@@ -10,12 +10,15 @@ body > footer {
     @include link-colors($footer-link-color, $footer-link-color-hover, $visited: $footer-link-color);
   }
   p:last-child { margin-bottom: 0; }
+  text-align: center;
 }
-body > footer img#octocat {
-  vertical-align: -35%;
-  margin-left: 0.4em;
-}
-body > footer img#creativecommons {
-  vertical-align: -30%;
+
+footer img {
+  vertical-align: -20%;
   margin-right: 0.4em;
+}
+
+footer img#octocat {
+  width: 16px;
+  margin-left: 0.25em;
 }
