@@ -22,27 +22,28 @@
 
 $heading-font-family: "GothicUltraOTRegular", sans-serif;
 
-@font-face {
-    font-family: 'OpenSansRegular';
-    src: url('../assets/fonts/OpenSans-Regular-webfont.eot');
-    src: url('../assets/fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../assets/fonts/OpenSans-Regular-webfont.woff') format('woff'),
-         url('../assets/fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
-         url('../assets/fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+// @font-face {
+//     font-family: 'OpenSansRegular';
+//     src: url('../assets/fonts/OpenSans-Regular-webfont.eot');
+//     src: url('../assets/fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+//          url('../assets/fonts/OpenSans-Regular-webfont.woff') format('woff'),
+//          url('../assets/fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
+//          url('../assets/fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
 
-@font-face {
-    font-family: 'OpenSansBold';
-    src: url('../assets/fonts/OpenSans-Bold-webfont.eot');
-    src: url('../assets/fonts/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../assets/fonts/OpenSans-Bold-webfont.woff') format('woff'),
-         url('../assets/fonts/OpenSans-Bold-webfont.ttf') format('truetype'),
-         url('../assets/fonts/OpenSans-Bold-webfont.svg#OpenSansBold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+// @font-face {
+//     font-family: 'OpenSansBold';
+//     src: url('../assets/fonts/OpenSans-Bold-webfont.eot');
+//     src: url('../assets/fonts/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+//          url('../assets/fonts/OpenSans-Bold-webfont.woff') format('woff'),
+//          url('../assets/fonts/OpenSans-Bold-webfont.ttf') format('truetype'),
+//          url('../assets/fonts/OpenSans-Bold-webfont.svg#OpenSansBold') format('svg');
+//     font-weight: normal;
+//     font-style: normal;
+// }
 
-$sans: "OpenSansRegular", sans-serif;
+// $sans: "OpenSansRegular", sans-serif;
+$sans: "Open Sans", sans-serif;
 
