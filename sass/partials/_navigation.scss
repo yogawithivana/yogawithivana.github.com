@@ -7,6 +7,7 @@ body > nav {
     bottom: 1px solid $nav-border-bottom; }
   padding-top: .35em;
   padding-bottom: .35em;
+  text-align: center;
   form {
     @include background-clip(padding-box);
     margin: 0; padding: 0;
@@ -40,7 +41,6 @@ body > nav {
     font-size: .9em;
     ul {
       @include horizontal-list(0);
-      float: left;
       display: block;
       padding-top: .15em;
     }
@@ -51,16 +51,18 @@ body > nav {
     }
     ul li {
       margin: 0;
+      float: none;
     }
     a {
       @include link-colors($nav-color, $nav-color-hover, $visited: $nav-color);
-      text-shadow: lighten($nav-bg, 12) 0 1px;
-      float: left;
       font-family: $heading-font-family;
       text-decoration: none;
-      font-size: 1.1em;
+      font-size: 1.5em;
       padding: .1em 0;
       line-height: 1.5em;
+    }
+    a.active {
+      @include link-colors($nav-color-hover, $nav-color-hover, $visited: $nav-color-hover);
     }
     li + li {
       border-left: 1px solid $nav-border-left;

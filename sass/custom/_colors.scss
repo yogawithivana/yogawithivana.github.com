@@ -6,8 +6,24 @@ $page-bg: #c2a86c;
 $main-bg: #f4f0e6;
 $header-bg: $main-bg;
 
+$text-color: #666;
 $highlight-color: #7ac142;
+
+$nav-bg: $main-bg;
+$nav-bg-front: $main-bg;
+$nav-bg-back: $main-bg;
+$nav-color: $text-color;
+$nav-color-hover: $highlight-color;
+$nav-border: $main-bg;
+$nav-border-top: $main-bg;
+$nav-border-bottom: $main-bg;
+$nav-border-left: $main-bg;
+$nav-border-right: $main-bg;
+
+
 $footer-bg: $highlight-color;
+
+
 
 //$subtitle-color: lighten($header-bg, 58);
 //$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
