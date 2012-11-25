@@ -11,6 +11,7 @@ body > header h1 > a {
   display: block;
   width: 242px;
   height: 81px;
+  margin-bottom: 20px;
 }
 body > header {
   text-align: center;
@@ -49,10 +50,10 @@ body > div.decor-img {
 }
 body > div#birdfeet {
   background: image-url("Bird-Feet.png") top left no-repeat;
-  width: 134px;
-  height: 222px;
-  top: 19px;
-  left: 24px;
+  width: 224px;
+  height: 200px;
+  top: 0;
+  left: 0;
 }
 body > div#left-leaf-bottom {
   background: image-url("left-leaf-bottom.png") top left no-repeat;
