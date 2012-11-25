@@ -1,5 +1,9 @@
 ---
 layout: default
+title: "Thoughts"
+footer: true
+sidebar: false
+weight: 1
 ---
 
 <div class="blog-index">
@@ -20,6 +24,7 @@ layout: default
     {% endif %}
   </div>
 </div>
+{% unless page.sidebar == false %}
 <aside class="sidebar">
   {% if site.blog_index_asides.size %}
     {% include_array blog_index_asides %}
@@ -27,3 +32,4 @@ layout: default
     {% include_array default_asides %}
   {% endif %}
 </aside>
+{% endunless %}
