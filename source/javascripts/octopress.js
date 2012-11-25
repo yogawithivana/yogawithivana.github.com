@@ -5,9 +5,9 @@ function getNav() {
   $('ul.main-navigation a').each(function(link) {
     mobileNav.children('select').append('<option value="'+link.href+'">&raquo; '+link.text+'</option>');
   });
-  $('ul.subscription a').each(function(link) {
-    mobileNav.children('select').append('<option value="'+link.href+'">&raquo; '+link.text+'</option>');
-  });
+  // $('ul.subscription a').each(function(link) {
+  //   mobileNav.children('select').append('<option value="'+link.href+'">&raquo; '+link.text+'</option>');
+  // });
   mobileNav.children('select').bind('change', function(event) {
     if (event.target.value) { window.location.href = event.target.value; }
   });

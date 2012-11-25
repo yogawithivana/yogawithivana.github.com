@@ -33,7 +33,7 @@ body > nav {
     }
   }
   fieldset[role=search]{ float: right; width: 48%; }
-  fieldset.mobile-nav{ float: left; width: 48%;
+  fieldset.mobile-nav{ // float: left; width: 48%;
     select{ width: 100%; font-size: .8em; border: 1px solid #888;}
   }
   ul { display: none; }
@@ -97,6 +97,13 @@ body > nav {
     ul[data-subscription$=email] + form {
       width: $sidebar-width-wide - $pad-wide - $sidebar-pad-wide*2 - 58px;
     }
+  }
+  // hiding search and RSS for now
+  fieldset[role=search] {
+    display: none;
+  }
+  ul.subscription {
+    display: none;
   }
 }
 .no-placeholder {
