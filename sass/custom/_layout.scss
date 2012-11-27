@@ -9,18 +9,34 @@ body {
   height: 100%;
 }
 
+.columns {
+  -webkit-column-width: 290px;
+  -webkit-column-gap: 30px;
+  -moz-column-width: 290px;
+  -moz-column-gap: 30px;
+  column-width: 290px;
+  column-gap: 30px;
+}
+
+p.centeredimage {
+  text-align: center;
+  margin-top: 1em;
+}
+
 $header-font-size: 2em;
 $header-padding-top: 30px;
-$header-padding-bottom: 60px;
+$header-padding-bottom: 85px;
+
+$type-border: none;
 
 //$max-width: 1350px;
 //$indented-lists: true;
 
 // Padding used for layout margins
-//$pad-min: 18px;
-//$pad-narrow: 25px;
-//$pad-medium: 35px;
-//$pad-wide: 55px;
+$pad-min: 18px;
+$pad-narrow: 80px;
+$pad-medium: 120px;
+$pad-wide: 160px;
 
 // Sidebar widths used in media queries
 //$sidebar-width-medium: 240px;
