@@ -16,9 +16,9 @@ sidebar: false
 
 <div class="columns">
 
-Teaching yoga for me means inspiring and empowering, helping a student discover his inner strength and always move his limits a bit further. Through teaching I would like to share my passion for silence and beauty of movement, inspiring my students to revive the connection with their body and nurture the peace within.
+<p>Teaching yoga for me means inspiring and empowering, helping a student discover his inner strength and always move his limits a bit further. Through teaching I would like to share my passion for silence and beauty of movement, inspiring my students to revive the connection with their body and nurture the peace within.</p>
 
-Yoga has helped me break out of a wrong career path as a lawyer, releasing and embracing my creative self. Through yoga I have discovered myself as an artist and traveller, brave and full of energy, living in a moment. I've discovered humility and gratitude towards the world and the beauty of being a tiny part in a larger process of life. Sharing my knowledge and passion is my way to express this gratitude.
+<p>Yoga has helped me break out of a wrong career path as a lawyer, releasing and embracing my creative self. Through yoga I have discovered myself as an artist and traveller, brave and full of energy, living in a moment. I've discovered humility and gratitude towards the world and the beauty of being a tiny part in a larger process of life. Sharing my knowledge and passion is my way to express this gratitude.</p>
 
 <p class="centeredimage"><img src="images/Siddhasana.jpg" alt="Siddhasana"></img></p>
 

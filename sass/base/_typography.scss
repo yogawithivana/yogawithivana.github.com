@@ -29,7 +29,7 @@ body > header h2 {
 body {
   line-height: 1.2em;
   color: $text-color;
-  @extend .sans;
+  @extend .serif;
 }
 h1 {
   font-size: 2.2em;
@@ -108,9 +108,10 @@ big { font-size: 1.2em; }
 
 blockquote {
   $bq-margin: 1.2em;
+  margin-bottom: 3em;
   font-style: italic;
   position: relative;
-  font-size: 1em;
+  font-size: 1.1em;
   line-height: 1.2em;
   padding-left: 1em;
   text-align: center;
