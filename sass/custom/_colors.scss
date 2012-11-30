@@ -9,6 +9,11 @@ $header-bg: $main-bg;
 $text-color: #666;
 $highlight-color: #7ac142;
 
+$link-color: $highlight-color;
+$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
+$link-color-visited: $link-color;
+$link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
+
 $nav-bg: $main-bg;
 $nav-bg-front: $main-bg;
 $nav-bg-back: $main-bg;
