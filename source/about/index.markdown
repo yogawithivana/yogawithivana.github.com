@@ -72,7 +72,7 @@ ___________________
 
 <div class="columns">
 
-<p>I went to my first yoga class during my student days, but I truly fell in love with yoga just years later, in 2010. Things we are looking for are often already there, around the corner, but we just don't see them. I guess the moment has to be right and you have to be ready to see it. This is how I met my husband too. We lived in Budapest 3 streets away from each other and though interested in very similar things we never met. And then years later when I was already living in Amsterdam for years and he in London, we both came to Budapest for a weekend and met each other. Less than half a year later we got married. Sometimes things just feel right and it's difficult to explain, you just have that feeling in your stomach. It feels like you have always known each other somehow.</p>
+<p>Although I went to my first yoga class during my student days, I truly fell in love with yoga just years later, in 2010. Things we are looking for are often already there, around the corner, but we just don't see them. I guess the moment has to be right and you have to be ready to see it. This is how I met my husband too. We lived in Budapest 3 streets away from each other and though interested in very similar things we never met. And then years later when I was already living in Amsterdam for years and he in London, we both came to Budapest for a weekend and met each other. Less than half a year later we got married. Sometimes things just feel right and it's difficult to explain, you just have that feeling in your stomach. It feels like you have always known each other somehow.</p>
 
 </div>
 
@@ -82,7 +82,7 @@ ___________________
 
 <div class="columns">
 
-<p>I spent 9 years of my life studying law and working in a corporate law office. Being a lawyer felt like being on a wrong bus, but warm and cosy enough to prevent me to simply get off. "When you feel fire lighting up within you just run" says one writer from my home country - "you never know when the flame is going to die out and leave you alone in the darkness". I think I was lucky to recognise the right moment and jump off. So I decided to quit my career in pursue of something that matters. This wasn't an easy journey, however I never looked back. And slowly I started to discover my forgotten talents and passions. Very slowly I started to overcome the fear of empty paper and draw again, learn graphic/web design and study human computer interaction. I started to sing and write, discovered my talent for photography. Yoga was a catalyzer and the driving force of my search for that something that matters, but completing the first teacher's training I realised that yoga IS that something. And this is where my real journey began.</p>
+<p>I spent 9 years of my life studying law and working in a corporate law office. Being a lawyer felt like being on a wrong bus, but warm and cosy enough to prevent me to simply get off. "When you feel fire lighting up within you just run" says one writer from my home country - "you never know when the flame is going to die out and leave you alone in the darkness". I think I was lucky to recognise the right moment and jump off. So I decided to quit my career in pursue of something that matters. This wasn't an easy journey, however I never looked back. And slowly I started to discover my forgotten talents and passions. Very slowly I started to overcome the fear of empty paper and draw again, learn graphic/web design and study human computer interaction. I started to sing and write, discovered my talent for photography. Yoga was a catalyst and the driving force of my search for that something that matters, but completing the first teacher's training I realised that yoga IS that something. And this is where my real journey began.</p>
 
 <p class="centeredimage"><img src="../images/yoga_institute_window.jpg" alt="Yoga Institute window"></img></p>
 
@@ -108,7 +108,7 @@ ___________________
 
 <div class="columns">
 
-<p>Spending more time learning yoga, more I'm aware of it's deepness and endlessness. Even after years of studying it feels like you have just scraped the surface of its vast amount of knowledge. Yoga is an experiential science, a way of life, slowly climbing up the 8-fold path, overcoming your kleshas in the pursuit of the stoppage of all fluctuations of the mind. I am just at the beginning of my journey and there is still a long way to go, but I'm happy to search for it. I believe in life-long learning, being receptive and open to always look at things in a new way. I believe in humility and dedication and learning not only with mind but also hearth and stomach.</p>
+<p>Spending more time learning yoga, more I'm aware of its deepness. Even after years of studying it feels like you have just scraped the surface of its vast amount of knowledge. Yoga is an experiential science, a way of life, slowly climbing up the 8-fold path, overcoming your kleshas in the pursuit of the stoppage of all fluctuations of the mind. I am just at the beginning of my journey and there is still a long way to go, but I'm happy to search for it. I believe in life-long learning, being receptive and open to always look at things in a new way. I believe in humility and dedication and learning not only with mind but also hearth and stomach.</p>
 
 </div>
 
