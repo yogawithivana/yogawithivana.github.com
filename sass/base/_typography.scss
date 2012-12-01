@@ -56,12 +56,15 @@ h3, section h2, section section h1 {
 }
 h4, section h3, section section h2, section section section h1 {
   font-size: 1.2em;
+  margin-bottom: 0.5em;
 }
 h5, section h4, section section h3 {
   font-size: 1em;
+  margin-bottom: 0.5em;
 }
 h6, section h5, section section h4, section section section h3 {
   font-size: 1em;
+  margin-bottom: 0.5em;
 }
 p, blockquote, ul, ol { margin-bottom: 1.5em; }
 
@@ -100,7 +103,11 @@ pre, code, tt { @extend .mono; }
 
 sub, sup { line-height: 0; }
 
-hr { margin-bottom: 0.2em; }
+hr {
+  margin-bottom: 1.2em;
+  color: #aaa;
+  border-top: 1px dotted;
+}
 
 small { font-size: .8em; }
 
