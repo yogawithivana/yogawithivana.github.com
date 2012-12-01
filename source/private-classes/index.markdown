@@ -29,8 +29,9 @@ Price: £50</p>
 <h3>One to One Yoga Classes</h3>
 
 <p>Consisting of:<br />
-10-15 min consultation about your needs/goals<br />
-1 hour of tailor-made practice including meditation</p>
+15 minutes consultation about your needs/goals<br />
+1 hour of tailor-made practice including meditation<br />
+Recommendation of asanas to do at home</p>
 
 <p>Price: £40<br />
 Package of 5 One to One Yoga Lessons: £150<br />
