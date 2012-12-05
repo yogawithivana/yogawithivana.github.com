@@ -12,11 +12,15 @@ weight: 3
 
 <h3>Wednesdays</h3>
 
-<p>18.30-19.30  (from 9th January 2013 on)</p>
+<p>18.30-19.30  (from 9th January 2013 on)<br />
 
-<p>at Moving Arts Base, studio 3<br />
-For directions and prices visit:<br />
-<a href="http://www.movingartsbase.eu/directions.html">http://www.movingartsbase.eu/directions.html</a>
+<p>movingartsbase, studio 3<br />
+Syracusae building<br />134 Liverpool Road<br />
+Islington, N1 1LA.<br /></p>
+
+<p><a href="http://www.movingartsbase.eu/directions.html">Show map</a></p>
+
+<p><a href="http://www.movingartsbase.eu/whatson/classes/yogawithivana.html">More info and prices</a></p>
 
 <p class="centeredimage"><img src="http://www.movingartsbase.eu/photographs/mab-door_302.jpg" alt="Moving Arts Base"></img></p>
 

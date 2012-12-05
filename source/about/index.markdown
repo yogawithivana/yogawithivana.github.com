@@ -8,17 +8,13 @@ sidebar: false
 weight: 2
 ---
 
-### Training
-
-900 hours Yoga Teacher Training Course with the [Yoga Institute Santacruz Mumbai, India](http://theyogainstitute.org/)  
-200 hours Yoga Teacher Training Course with the [Yoga Federation of Serbia](http://www.yogasavezsrbije.com/eng/)  
-Member of the [Independent Yoga Network](http://www.independentyoganetwork.org/).
-
 <div class="columns">
 
-<p class="centeredimage"><img src="../images/teaching_in_india.jpg" alt="Teaching in India"></img></p>
+<p>I'm an <a href="http://www.independentyoganetwork.org/" target="_blank">IYN</a> accredited teacher and a devoted student of yoga. My yoga journey started with Sivananda yoga and gentle restorative practices of Bihar School of yoga. After completing my 200 hrs Yoga Teacher Training I continued learning, diving deeper into the philosophy and history of yoga and finding passion in classical yoga based on Patanjali's Sutras, the mathematics and poetry of yoga. I have just returned from India where I completed my 900 hrs Yoga TTC with the <a href="http://theyogainstitute.org/" target="_blank">Yoga Institute Santacruz in Mumbai</a> studying full-time and teaching local people as part of various health camps.</p>
 
-<p>My asana style draws on classical Hatha yoga, Sivananda, Iyengar yoga and the moving meditation of Vinyasa Flow, exploring and connecting. I also have some hands-on experience in teaching yoga to people with diabetes, cardiovascular disease, hypertension, respiratory and orthopedic problems, using yoga in dealing with stress management, weight management, yoga in pregnancy - prenatal and postnatal yoga and modifying yoga asanas for other specific needs.</p>
+<p>My asana style is an organic blend of classical Hatha yoga, Sivananda, Iyengar yoga and the moving meditation of Vinyasa Flow, exploring and connecting. I also have some hands-on experience in teaching yoga to people with diabetes, cardiovascular disease, hypertension, respiratory and orthopedic problems, pregnancy yoga - prenatal and postnatal and using yoga in dealing with stress management.</p>
+
+<p class="centeredimage"><img src="../images/teaching_in_india.jpg" alt="Teaching in India"></img></p>
 
 </div>
 
