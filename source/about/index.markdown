@@ -10,7 +10,9 @@ weight: 2
 
 <div class="columns">
 
-<p>I'm an <a href="http://www.independentyoganetwork.org/" target="_blank">IYN</a> accredited teacher and a devoted student of yoga. My yoga journey started with Sivananda yoga and gentle restorative practices of Bihar School of yoga. After completing my 200 hrs Yoga Teacher Training I continued learning, diving deeper into the philosophy and history of yoga and finding passion in classical yoga based on Patanjali's Sutras, the mathematics and poetry of yoga. I have just returned from India where I completed my 900 hrs Yoga TTC with the <a href="http://theyogainstitute.org/" target="_blank">Yoga Institute Santacruz in Mumbai</a> studying full-time and teaching local people as part of various health camps.</p>
+<p>I'm an <a href="http://www.independentyoganetwork.org/" target="_blank">IYN</a> accredited teacher and a devoted student of yoga. My journey started with Sivananda yoga and gentle restorative practices of Bihar School of yoga. After completing a 200 hrs Yoga Teacher Training I continued learning, diving deeper into the philosophy and history of yoga and finding passion in classical yoga based on Patanjali's Sutras, the mathematics and poetry of yoga. I have just returned from India where I completed a 900 hrs Yoga TTC with the <a href="http://theyogainstitute.org/" target="_blank">Yoga Institute Santacruz in Mumbai</a> studying full-time and teaching local people as part of various health camps.</p>
+
+<div class="ornament" style="margin-bottom: 7em;"></div>
 
 <p>My asana style is an organic blend of classical Hatha yoga, Sivananda, Iyengar yoga and the moving meditation of Vinyasa Flow, exploring and connecting. I also have some hands-on experience in teaching yoga to people with diabetes, cardiovascular disease, hypertension, respiratory and orthopedic problems, pregnancy yoga - prenatal and postnatal and using yoga in dealing with stress management.</p>
 
@@ -18,9 +20,7 @@ weight: 2
 
 </div>
 
-___________________
-
-### My Yoga Story
+## My Yoga Story
 
 <div class="columns">
 
@@ -64,16 +64,6 @@ ___________________
 
 ___________________
 
-#### The Love Story
-
-<div class="columns">
-
-<p>Although I went to my first yoga class during my student days, I truly fell in love with yoga just years later, in 2010. Things we are looking for are often already there, around the corner, but we just don't see them. I guess the moment has to be right and you have to be ready to see it. This is how I met my husband too. We lived in Budapest 3 streets away from each other and though interested in very similar things we never met. And then years later when I was already living in Amsterdam for years and he in London, we both came to Budapest for a weekend and met each other. Less than half a year later we got married. Sometimes things just feel right and it's difficult to explain, you just have that feeling in your stomach. It feels like you have always known each other somehow.</p>
-
-</div>
-
-___________________
-
 #### Something That Matters
 
 <div class="columns">
@@ -86,11 +76,21 @@ ___________________
 
 ___________________
 
+#### The Love Story
+
+<div class="columns">
+
+<p>Although I went to my first yoga class during my student days, I truly fell in love with yoga just years later, in 2010. Things we are looking for are often already there, around the corner, but we just don't see them. I guess the moment has to be right and you have to be ready to see it. This is how I met my husband too. We lived in Budapest 3 streets away from each other and though interested in very similar things we never met. And then years later when I was already living in Amsterdam for years and he in London, we both came to Budapest for a weekend and met each other. Less than half a year later we got married. Sometimes things just feel right and it's difficult to explain, you just have that feeling in your stomach. It feels like you have always known each other somehow.</p>
+
+</div>
+
+___________________
+
 #### Sharing
 
 <div class="columns">
 
-<p>I did my first yoga teacher training course with the Yoga Federation of Serbia in my home country. It was a 200h training spread over 8 months, based on the holistic approach to yoga and inspired by Bihar school of yoga and Sivananda yoga tradition. Although I initially started the training with the idea of using yoga to encourage my husband and me to move a bit more and even without a serious intention to teach other people, I discovered along the way how rich and beautiful yoga is and how much more than just asanas. Learning from the lovely people of the Yoga Federation of Serbia inspired me to integrate yoga philosophy in my in everyday life, with head, heart and hand. I experienced how heart-warming it is to see glowing faces of people coming out of your lesson, energized and rejuvenated, how beautifully rewarding it is to share knowledge and passion for yoga and help someone to feel better.</p>
+<p>I did my first yoga teacher training course with the Yoga Federation of Serbia in my home country. It was a 200h training spread over 8 months, based on the holistic approach to yoga and inspired by Bihar school of yoga and Sivananda yoga tradition. Although I initially started the training with the idea of using yoga to encourage my husband and me to move a bit more and even without a serious intention to teach other people, I discovered along the way how rich and beautiful yoga is and how much more than just asanas. Learning from the lovely people of the Yoga Federation of Serbia inspired me to integrate yoga philosophy in my everyday life, with head, heart and hand. I experienced how heart-warming it is to see glowing faces of people coming out of your lesson, energized and rejuvenated, how beautifully rewarding it is to share knowledge and passion for yoga and help someone to feel better.</p>
 
 <p>After completing the first 200h training I realised that this qualification makes me competent to work only with young and healthy people and not everybody is. My father has type 2 diabetes and I felt powerless in my attempt to help him with my knowledge at that point. I wanted to learn how to modify yoga postures and use other yogic techniques in work with people with chronic health conditions. Also I felt the need to deepen my knowledge of the yoga philosophy and experience the life of a yoga student in India, so much different than here in the West, living under the same roof with the teacher, sitting by the teacher's feet and adopting the knowledge as a way of life, living and breathing yoga. This summer/autumn I spent 3.5 months the Yoga Institute Santacruz in Mumbai, which is established in 1918 by Shri Yogendraji and highly respected in yoga therapy circles. I lived in the ashram, studying full time and assisting in teaching local people as a part of various health camps that the Institute regularly held.</p>
 
@@ -102,13 +102,13 @@ ___________________
 
 #### Life-Long Learning
 
-<div class="columns">
+<div class="columns" style="margin-bottom: 3em;">
 
 <p>Spending more time learning yoga, more I'm aware of its deepness. Even after years of studying it feels like you have just scraped the surface of its vast amount of knowledge. Yoga is an experiential science, a way of life, slowly climbing up the 8-fold path, overcoming your kleshas in the pursuit of the stoppage of all fluctuations of the mind. I am just at the beginning of my journey and there is still a long way to go, but I'm happy to search for it. I believe in life-long learning, being receptive and open to always look at things in a new way. I believe in humility and dedication and learning not only with mind but also hearth and stomach.</p>
 
-</div>
+<div class="ornament"></div>
 
-___________________
+</div>
 
 Yours in Yoga,  
 Ivana

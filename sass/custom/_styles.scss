@@ -46,6 +46,15 @@ p.vcard > span.tel {
 }
 
 // decorative images
+
+div.ornament {
+  background: image-url("ornament.png") top left no-repeat;
+  width: image-width("ornament.png");
+  height: image-height("ornament.png");
+  display: block;
+  margin: 0px auto;
+}
+
 body > div.decor-img {
   display: block;
   border-bottom: 0px solid #fff;
