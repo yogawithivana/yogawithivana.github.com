@@ -10,7 +10,7 @@ weight: 3
 
 <div style="text-align: center;">
 
-<h3>Wednesdays</h3>
+<h2>Wednesdays</h2>
 
 <p>18.30-19.30  (from 9th January 2013 on)<br />
 
@@ -28,7 +28,7 @@ Islington, N1 1LA.<br /></p>
 
 </div>
 
-### What to expect?
+## What to expect?
 
 <div class="columns">
 

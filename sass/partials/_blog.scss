@@ -1,4 +1,4 @@
-article {
+article.hentry {
   padding-top: 1em;
   a { @extend .force-wrap; }
   header {
@@ -41,7 +41,7 @@ article {
     margin-bottom: 1em;
     padding-bottom: 1em;
     background: $img-border bottom left repeat-x;
-    font-size: 2.0em; font-style: italic;
+    font-style: italic;
     line-height: 1.3em;
   }
   img, video, .flash-video {
@@ -71,10 +71,11 @@ article {
   }
   > footer {
     padding-bottom: 2.5em;
-    margin-top: 2em;
+    margin-top: 1em;
     @extend .sans;
     p.meta {
       margin-bottom: .8em;
+      margin-top: 1em;
       font-size: .85em;
       clear: both;
       overflow: hidden;
@@ -95,7 +96,6 @@ article + article {
   article { padding-top: 2em; }
   article header { background: none; padding-bottom: 0; }
   article h1 {
-    font-size: 2em;
     a { color: inherit; &:hover { color: $link-color-hover; } }
   }
   a[rel=full-article] {

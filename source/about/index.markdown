@@ -20,6 +20,8 @@ weight: 2
 
 </div>
 
+___________________
+
 ## My Yoga Story
 
 <div class="columns">
@@ -32,7 +34,7 @@ weight: 2
 
 ___________________
 
-#### Silence
+### Silence
 
 <div class="columns">
 
@@ -42,7 +44,7 @@ ___________________
 
 ___________________
 
-#### Movement
+### Movement
 
 <div class="columns">
 
@@ -54,7 +56,7 @@ ___________________
 
 ___________________
 
-#### Home
+### Home
 
 <div class="columns">
 
@@ -64,7 +66,7 @@ ___________________
 
 ___________________
 
-#### Something That Matters
+### Something That Matters
 
 <div class="columns">
 
@@ -76,7 +78,7 @@ ___________________
 
 ___________________
 
-#### The Love Story
+### The Love Story
 
 <div class="columns">
 
@@ -86,7 +88,7 @@ ___________________
 
 ___________________
 
-#### Sharing
+### Sharing
 
 <div class="columns">
 
@@ -100,7 +102,7 @@ ___________________
 
 ___________________
 
-#### Life-Long Learning
+### Life-Long Learning
 
 <div class="columns" style="margin-bottom: 3em;">
 

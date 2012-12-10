@@ -20,13 +20,13 @@ weight: 4
 
 <p>You can choose between:</p>
 
-<h3>Semi-Private Yoga Classes</h3>
+<h2>Semi-Private Yoga Classes</h2>
 
 <p>For small groups of up to 3 people<br />
 Affordable way to study and practice at your home or workspace<br />
 Price: £50</p>
 
-<h3>One to One Yoga Classes</h3>
+<h2>One to One Yoga Classes</h2>
 
 <p>Consisting of:<br />
 15 minutes consultation about your needs/goals<br />

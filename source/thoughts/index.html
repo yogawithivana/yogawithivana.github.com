@@ -10,7 +10,7 @@ weight: 1
   {% assign index = true %}
   {% for post in paginator.posts %}
   {% assign content = post.content %}
-    <article>
+    <article class="hentry" role="article">
       {% include article.html %}
     </article>
   {% endfor %}
