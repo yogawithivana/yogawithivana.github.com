@@ -22,7 +22,7 @@ Islington, N1 1LA.<br /></p>
 
 <p><a href="http://www.movingartsbase.eu/whatson/classes/yogawithivana.html">More info and prices</a></p>
 
-<p class="centeredimage"><img src="http://www.movingartsbase.eu/photographs/mab-door_302.jpg" alt="Moving Arts Base"></img></p>
+<p class="centeredimage"><img src="../images/mab-door_302.jpg" alt="Moving Arts Base"></img></p>
 
 <p>More pop-up classes in and around London coming soon...</p>
 
