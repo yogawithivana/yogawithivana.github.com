@@ -20,12 +20,6 @@ weight: 4
 
 <p>You can choose between:</p>
 
-<h2>Semi-Private Yoga Classes</h2>
-
-<p>For small groups of up to 3 people<br />
-Affordable way to study and practice at your home or workspace<br />
-Price: £45</p>
-
 <h2>One to One Yoga Classes</h2>
 
 <p>Consisting of:<br />
@@ -33,10 +27,15 @@ Price: £45</p>
 1 hour of tailor-made practice including meditation<br />
 Recommendation of asanas to do at home</p>
 
-<p>Price: £35<br />
-Package of 5 One to One Yoga Lessons: £140<br />
+<p>Price: £50<br />
+Package of 5 One to One Yoga Lessons: £220<br />
 I am happy to teach One to One classes at my home or yours.</p>
 
 <p>Discount: I'm happy to give student and low income discounts or teach on an exchange basis. If you think you qualify for a discount or have a nice idea for exchange,<br/>please get in touch!</p>
+
+<h2>Workspace Yoga / Semi-Private Yoga Classes</h2>
+
+Affordable way to study and practice at your home or workspace<br />
+<p>The price depends on size of the group, please contact me for more details.</p>
 
 </div>
