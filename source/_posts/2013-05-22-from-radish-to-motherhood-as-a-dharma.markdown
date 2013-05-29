@@ -1,0 +1,21 @@
+---
+layout: post
+title: "From Radish to Motherhood as a Dharma"
+date: 2013-05-22 23:20
+comments: true
+categories: 
+---
+
+During my recent 900 hour training at The Yoga Institute Santacruz in India I was amongst other trained in pregnancy yoga. As a part of the course we were assisting and teaching in both antenatal and postnatal camps/workshops that the Institute held for local women. This was such a beautiful experience! The workshops reflected a holistic approach to yoga and pregnancy focused on learning about yogic philosophy and the way of life, from diet and positive thinking to different traditional Hatha yoga techniques adapted to pregnancy. 
+ 
+It is magical how Hindu people see pregnancy and motherhood as a manifestation of the female divine force in each woman - empowering and divinifying the woman in a society which is still quite discriminative towards the "weaker sex". Becoming a mother is seen as awakening and cultivating the qualities of the universal mother in every woman - strength, selflessness and unconditional love. So a real mother is not only the mother of her baby but mother to every child, realising motherhood as a part of her dharma, her innate purpose.
+
+India made me recognise and embrace my own, back then quite shy, mother instinct. After coming back home I felt I was ready... if it's possible to ever be. The right time you don't wait for, you make it, I guess. "Let's make a baby!" - I whispered to Dain. "Let's!" - he answers, being always open to support me in all the crazy ideas. And everything happened so quickly. A couple of weeks later here we are, Dain and me in a supermarket manically searching for radish, my first craving.
+
+![Yoga with a bump](https://dl.dropboxusercontent.com/u/3886907/miau/yoga-bump.jpg)
+
+Becoming an expectant mum I started to learn about pregnancy yoga for real, this time on my own changing body. I was practising yoga every day since the first day of my pregnancy, slowing down and doing more relaxation during the bad days and being more active during the good days. Yoga kept me calm and bright thought the period of nausea and strange pains and strong and energised afterwards. I'm really grateful that everything has been going well so far and I'm going through my pregnancy cheerful and full of energy. I try to express this gratitude through sharing my passion for yoga and this bit of knowledge and experience with other mums-to-be who might be going through similar things.
+
+Since coming back from India I've been learning about some contemporary approaches to yoga in pregnancy as well. I am really passionate about [Active Birth](http://www.bellybelly.com.au/birth/active-birth) movement and work of [Janet Balaskas](http://www.bbc.co.uk/news/health-17589544), the founder of the [Active Birth Centre](http://www.activebirthcentre.com/). Also I find [hypnobirthing (the Mongan method)](http://www.hypnobirthing.co.uk/) quite interesting, as well as [Birthlight](http://www.birthlight.com/) pregnancy yoga based on work of [Francoise Barbira Freedman](http://www.ice.cam.ac.uk/components/tutors/?view=tutor&id=2071&cid=4223), a medical anthropologist from Cambridge inspired by energetic but gentle mothering of tribal women from Peruvian Amazon. All these have tremendously influenced my pregnancy yoga classes and my own everyday yoga practice.
+
+After some 300 years of development of modern obstetrics and dominance of medically imposed recumbent positions for labour, forceps, epidurals and unnecessary cesarians, luckily there are now stronger and stronger voices speaking up for the innate right of women as instinctive birth-givers. The right of a mother to give birth to her child changing positions guided by her instincts, in full control of her birthing experience, is more and more recognised as important for heath of both mother and the child and for development of a healthy bonding between them. I am so grateful to be living in a country where alternative approaches to childbirth have been slowly melting into the mainstream. If everything goes right, Vuk is going to be a water baby, gently swimming from water into the water, before being ready to take his first breath of the chilly London air.
