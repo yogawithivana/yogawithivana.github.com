@@ -9,7 +9,6 @@ sidebar: false
 
 > Yoga is...?  
 > Breathing the movement  
-> Learning to smile  
 > Finding the silence  
 > Behind the noise of a street  
 > Enjoying life barefoot

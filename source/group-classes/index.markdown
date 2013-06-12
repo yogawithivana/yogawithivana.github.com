@@ -22,26 +22,25 @@ ___________________
 
 <div class="columns">
 
-	<h2>Antenatal yoga</h2>
-	
-	<p>Gentle and playful weekly yoga classes especially adapted for pregnancy.</p>
+    <h2>Antenatal yoga</h2>
+    
+    <p>Gentle and playful weekly yoga classes especially adapted for pregnancy.</p>
 
-	<p>Time:<br />
-	Sundays 11.00 – 12.00</p>
+    <p>Times:<br />
+    Sundays 11.00 – 12.00<br />
+    Wednesdays 20.30 – 21.30</p>
 
-	<p>Place:<br />
-	<a href="http://n16boilerhouse.com/about/">The Boiler House Community Space</a><br />
-	George Downing Estate, Cazenove Road<br />
-	Stoke Newington, London, N16 6BE</p>
+    <p>Place:<br />
+    <a href="http://n16boilerhouse.com/about/">The Boiler House Community Space</a><br />
+    George Downing Estate, Cazenove Road<br />
+    Stoke Newington, London, N16 6BE</p>
 
-	<p>Price:<br />
-	£8/£5 concessions</p>
+    <p>Price:<br />
+    £8 / £5 for unemployed and student mums</p>
 
-	<p>Beginners welcome.</p>
+    <p>Feel free to ring 07936348233 or mail me@yogawithivana.com to find out more.</p>
 
-	<p>Feel free to ring 07936348233 or mail me@yogawithivana.com to find out more.</p>
-
-	<img src="../images/pregnancy_yoga_poster.jpg" alt="Flyer"></img>
+    <img src="../images/pregnancy_yoga_poster.jpg" alt="Flyer"></img>
 
 </div>
 
