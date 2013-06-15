@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pregnancy / antenatal yoga classes in Stoke Newington"
+title: "Antenatal yoga classes in Stoke Newington"
 comments: false
 sidebar: false
 sharing: true
@@ -11,7 +11,7 @@ footer: true
 
     <h2>Antenatal yoga</h2>
     
-    <p>Gentle and playful weekly yoga classes especially adapted for pregnancy.</p>
+    <p>Gentle and playful yoga classes twice a week, especially adapted for pregnancy.</p>
 
     <p>Times:<br />
     Sundays 11.00 – 12.00<br />
@@ -25,7 +25,7 @@ footer: true
     <p>Price:<br />
     £8 / £5 for unemployed and student mums</p>
 
-    <p>Feel free to ring 07936348233 or mail me@yogawithivana.com to find out more.</p>
+    <p>Feel free to ring 07936348233 or mail me@yogawithivana.com with questions.</p>
 
     <img src="../images/pregnancy_yoga_poster.jpg" alt="Flyer"></img>
 
@@ -33,7 +33,7 @@ footer: true
 
 <br />
 
-<div style="text-align: center;">
+<div id="more_info" style="text-align: center;">
 
     <h3>Yoga throughout pregnancy</h3>
     
