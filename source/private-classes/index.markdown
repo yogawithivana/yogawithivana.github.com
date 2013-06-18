@@ -10,7 +10,7 @@ weight: 4
 
 <div class="columns">
 
-<p>Everyone is unique. Private yoga classes are the only way to get a tailor-made practice suited to your body, health and lifestyle. Whether you would like to lose weight, work on improving core strength, recover from an injury, use yoga to help you cope with a chronic heath condition or simply improve your personal practice, bespoke classes will enable you to get the best results.</p>
+<p>Everyone is unique. If you are looking to get a tailor-made practice suited to your body, health and lifestyle one to one classes are probably the best choice. You can get full attention and focus on your needs whether you would like to lose weight, recover from an injury, use yoga to help you cope with a chronic health condition, or bring your personal practice to a new level.</p>
 
 <p class="centeredimage"><img src="../images/Bakasana.jpg" alt="Bakasana"></img></p>
 
@@ -24,18 +24,22 @@ weight: 4
 
 <p>Consisting of:<br />
 15 minutes consultation about your needs/goals<br />
-1 hour of tailor-made practice including meditation<br />
-Recommendation of asanas to do at home</p>
+1 hour of tailor-made asana practice and yoga nidra<br />
+Recommendation of a safe self-practice</p>
 
 <p>Price: £50<br />
 Package of 5 One to One Yoga Lessons: £220<br />
-I am happy to teach One to One classes at my home or yours.</p>
+I am available to teach One to One classes at my home or yours.</p>
 
-<p>Discount: I'm happy to give student and low income discounts or teach on an exchange basis. If you think you qualify for a discount or have a nice idea for exchange,<br/>please get in touch!</p>
+<p>I'm happy to give student and low income discounts or teach on an exchange basis.<br/>
+	If you think you qualify for a discount or have a nice idea for an exchange,<br/>
+	please get in touch!</p>
 
-<h2>Workspace Yoga / Semi-Private Yoga Classes</h2>
+<h2>Semi-Private Yoga Classes / Workplace Yoga</h2>
 
-Affordable way to study and practice at your home or workspace<br />
-<p>The price depends on size of the group, please contact me for more details.</p>
+
+<p>Practice with your friends or colleagues at the time and place suited to you.<br />
+Special discount available for ethical businesses and tech start-ups.<br />
+Get in touch to find out more!</p>
 
 </div>
