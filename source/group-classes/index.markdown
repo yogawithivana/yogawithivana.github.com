@@ -33,7 +33,7 @@ ___________________
 
     <p>Place:<br />
     <a href="http://n16boilerhouse.com/about/">The Boiler House Community Space</a><br />
-    George Downing Estate, Cazenove Road<br />
+    George Downing Estate, Cazenove Road<br/>
     Stoke Newington, London, N16 6BE</p>
 
     <p>Price:<br />
@@ -47,8 +47,35 @@ ___________________
 
 ___________________
 
-<div style="text-align: center;">
+<div class="columns">
 
-	<p>More pop-up classes in and around London coming soon...</p>
+<img style="margin-bottom: 2em; margin-top: 0.25em;" src="../images/the-wide-classical-yoga-avatar.jpg" alt="meditation"></img>
+
+<div style="margin-bottom: 2em; margin-top: 0.25em;" class="ornament"></div>
+
+<H2>Meditation</H2>
+
+<p>Weekly meditation inspired by Buddhist mindfulness practices and yoga of self-enquiry, combining various traditional meditation techniques with moving meditative sequences, reflection and Yoga Nidra.</p>
+
+<p>Time:<br />
+Sundays 16:30 - 18:00</p>
+
+<p>Place:<br />
+<a href="http://www.yoganesh.co.uk/">Yoganesh</a><br/>
+27 Old Ford Road<br/>
+Bethnal Green<br/>
+London, E2 9PJ</p>
+
+<p>Price:<br/>
+£5</p> 
 
 </div>
+
+___________________
+
+<div style="text-align: center;">
+
+<p>More pop-up classes in and around London coming soon...</p>
+
+</div>
+

@@ -15,11 +15,9 @@ sidebar: false
 
 <div class="columns">
 
-<p>Teaching yoga for me means inspiring and empowering, helping a student discover his inner strength and always move his limits a bit further.</p>
+<p>Teaching yoga for me means inspiring and empowering, helping a student discover the inner grace and the calm strength within him/herself. I find it important to approach every student as unique as they are. I track students' progress and plan the classes carefully having in mind each student's specific needs and abilities and their pace of changing.</p>
 
-<p>Yoga has helped me break out of a wrong career path as a lawyer, releasing and embracing my creative self. Through yoga I have discovered myself as an artist and traveller, brave and full of energy. I've discovered humility and gratitude towards the world and the beauty of being a tiny part in a larger process of life. Sharing my knowledge and passion is my way to express this gratitude.</p>
-
-<div class="ornament"></div>
+<p>Recently my main focus has been pregnancy yoga, please check the group class page for more info. I also have some hands-on experience in using yoga in weight management and management of various chronic health conditions and sport injuries, working with people with diabetes, cardiovascular disease, hypertension, respiratory and orthopedic problems.</p>
 
 <p class="centeredimage"><img src="images/Siddhasana.jpg" alt="Siddhasana"></img></p>
 
