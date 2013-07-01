@@ -11,7 +11,8 @@ sidebar: false
 > Breathing the movement  
 > Finding the silence  
 > Behind the noise of a street  
-> Enjoying life barefoot
+> Finding the beauty 
+> deep within
 
 <div class="columns">
 
