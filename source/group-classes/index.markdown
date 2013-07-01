@@ -53,7 +53,7 @@ ___________________
 
 <div style="margin-bottom: 2em; margin-top: 0.25em;" class="ornament"></div>
 
-<H2>Meditation</H2>
+<H2><a href="../meditation-bethnal-green-yoganesh">Meditation</a></H2>
 
 <p>Weekly meditation inspired by Buddhist mindfulness practices and yoga of self-enquiry, combining various traditional meditation techniques with moving meditative sequences, reflection and Yoga Nidra.</p>
 
