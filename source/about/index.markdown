@@ -15,9 +15,9 @@ weight: 2
 <H2>Training</H2>
 
 <p>
-<li>IYN Accredited Yoga Teacher 500 hrs</li>
-<li>900 hrs Yoga TTC with the Yoga Institute Santacruz, India</li>
-<li>200 hrs Yoga TTC with the Yoga Federation of Serbia</li>
+<li><a href="http://www.independentyoganetwork.org/">IYN</a> Accredited Yoga Teacher 500 hrs</li>
+<li><a href="http://theyogainstitute.org/">The Yoga Institute</a>, Santacruz Mumbai, India 900 hrs training</li>
+<li>Yoga Federation of Serbia, 200 hrs training</li>
 </p>
 
 </div>
