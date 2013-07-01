@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "A Bubble of Magic"
-date: 2012-11-12 14:13
+title: "A Soap Bubble That Would Last Forever"
+date: 2013-07-01 12:37
 comments: true
 categories: 
 ---
-As a kid I was always fascinated with soap bubbles. I learnt how to multiply and recycle them, dreaming of a soap bubble that would last forever. But would it still be precious? There is nothing really valuable in soap.
+As a kid I was always fascinated with soap bubbles. I would spend time connecting them and turning into quadruple or even octuple, "recycling" the bubbles and trying to extend their life. I dreamt of a soap bubble that would last forever. But what would be the point? - most people would say. There is nothing really interesting in soap. The beauty of a soap bubble lies in its fragility, in its impermanence. Each bubble is new and special, fluttering in front of your eyes, impossible to grasp and that is exactly what is fun about them.
 
-The beauty of a soap bubble is in its fragility, in its impermanence. Things that are there all the time start to feel less precious. But if we are aware of each moment as it happens there is no need to ask for it to last forever. Every moment could be a new and wondrous experience, a soap bubble of magic in our lives.
+It's a strange nature of the human mind. We stop noticing beauty in things that last, that are simply there. It's only new that manages to tickle our curiosity and trap our short attention span used to restlessly click between links in the browser or between TV channels. We always look for new, and turn it into old as soon as we reach it. And this is what the whole consumer mentality is all about too - chasing soap bubbles that disappear as we touch them, running after a butterfly that turns into a catterpilar as soon as it lands on your palm. 
+
+Well, it's not the fault of the butterfly, it's our hand that breaks the magic. Or more precisely, it's the eye that doesn't see it as such anymore. Nothing in the world is static, everything keeps changing and every moment is new and unique. It's just that we get stuck in our own idea about things and people that surround us and this overshadows their real nature. We don't see them as they are, we see our opinions about them, memories, judgements and prejudices. Labeling the things around us we stop finding excitement in them, always chasing the "new" and untouched.
 
 ![Bubbles](https://dl.dropbox.com/u/3886907/miau/the%20bubble%20by%20lou%20bernstein.jpg)
 
-photo by Lou Bernstein
+Isn't it ironic that it usually takes an accident or a terminal illness to be able to stop, take a deep breath and check what is really important in your life? To find beauty in things that were there all the time but you just didn't notice them anymore...
+
+There is an ancient practice developed by Jain monks which I find quite interesting. Every evening you wrap the day up by sitting down and closing your eyes, letting the day unfold in your mind frame by frame, like on a movie screen. Simply watching everything that happened without analysing it, you scan slowly through your day, from the moment of waking up all the way to the moment when you sat down and closed your eyes. And with time you not only improve your memory, but gain the ability to detach and experience your life from the aspect of an impartial witness. You develop the habit of living in the present moment as it happens, seeing the life as a succession of moments instead of continuity. And you realise how everything is changing, how precious and unique each moment is, new and unrepeatable. 
+
+So yes, I do believe it's just a matter of practice - escaping from the established perception patterns and being open to see things as new in each new moment that unfolds. Developing appreciation for the world around us and the ability to notice beauty in "ordinary" things, we overcome the need for short-term thrills. Every moment of your life becomes a new and irreproducible experience, reflected in billions of soup bubbles dispersing light always in a new way.
