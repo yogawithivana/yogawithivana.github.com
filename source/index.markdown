@@ -9,10 +9,10 @@ sidebar: false
 
 > Yoga is...?  
 > Breathing the movement  
+> Soothing the restless  
+> waves of the mind  
 > Finding the silence  
-> Behind the noise of a street  
-> Finding the beauty 
-> deep within
+> deep within 
 
 <div class="columns">
 
