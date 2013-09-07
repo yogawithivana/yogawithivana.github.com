@@ -3,13 +3,13 @@ layout: post
 title: "A Soap Bubble That Would Last Forever"
 date: 2013-07-01 12:37
 comments: true
-categories: 
+categories: [reflection]
 ---
-As a kid I was always fascinated with soap bubbles. I would spend time connecting them and turning into quadruple or even octuple, "recycling" the bubbles and trying to extend their life. I dreamt of a soap bubble that would last forever. But what would be the point? - most people would say. There is nothing really interesting in soap. The beauty of a soap bubble lies in its fragility, in its impermanence. Each bubble is new and special, fluttering in front of your eyes, impossible to grasp and that is exactly what is fun about them.
+As a kid I was always fascinated with soap bubbles. I would spend time connecting them and turning into triple, quadruple, octuple, "recycling" the bubbles and trying to extend their life. I dreamt of a soap bubble that would last forever. But what would be the point? - most people would say. There is nothing really interesting in soap. The beauty of a soap bubble lies in its fragility, in its impermanence. Each bubble is new and special, fluttering in front of your eyes, impossible to grasp and that is exactly what is fun about them.
 
 It's a strange nature of the human mind. We stop noticing beauty in things that last, that are simply there. It's only new that manages to tickle our curiosity and trap our short attention span used to restlessly click between links in the browser or between TV channels. We always look for new, and turn it into old as soon as we reach it. And this is what the whole consumer mentality is all about too - chasing soap bubbles that disappear as we touch them, running after a butterfly that turns into a catterpilar as soon as it lands on your palm. 
 
-Well, it's not the fault of the butterfly, it's our hand that breaks the magic. Or more precisely, it's the eye that doesn't see it as such anymore. Nothing in the world is static, everything keeps changing and every moment is new and unique. It's just that we get stuck in our own idea about things and people that surround us and this overshadows their real nature. We don't see them as they are, we see our opinions about them, memories, judgements and prejudices. Labeling the things around us we stop finding excitement in them, always chasing the "new" and untouched.
+Well, it's not the fault of the butterfly, it's our hand that breaks the magic, it's our eye that doesn't see it as such anymore. Nothing in the world is static, everything keeps changing and every moment is new and unique. It's just that we get stuck in our own idea about things and people that surround us and this overshadows their real nature. We don't see them as they are, we see our opinions about them, memories, judgements and prejudices. Labeling the things around us we stop finding excitement in them, always chasing the "new" and untouched.
 
 ![Bubbles](https://dl.dropbox.com/u/3886907/miau/the%20bubble%20by%20lou%20bernstein.jpg)
 
