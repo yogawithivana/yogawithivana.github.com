@@ -8,9 +8,7 @@ sidebar: false
 ---
 
 > Yoga is...?  
-> Breathing the movement  
-> Soothing the restless  
-> waves of the mind  
+> Breathing the movement   
 > Finding the silence  
 > deep within 
 
