@@ -8,21 +8,7 @@ sidebar: false
 weight: 2
 ---
 
-<div class="columns">
 
-<p>I'm an Indian trained yoga teacher with background in classical yoga and yoga therapy. Yoga has helped me break out of a wrong career path as a lawyer, releasing and embracing my creative self. I've discovered humbleness and gratitude towards the world and beauty of being a tiny part in a larger process of life. Sharing my knowledge and passion is my way to express this gratitude.</p> 
-
-<H2>Training</H2>
-
-<p>
-<li><a href="http://www.independentyoganetwork.org/">IYN</a> Accredited Yoga Teacher 500 hrs</li>
-<li><a href="http://theyogainstitute.org/">The Yoga Institute</a>, Santacruz Mumbai, India 900 hrs training</li>
-<li>Yoga Federation of Serbia, 200 hrs training</li>
-</p>
-
-</div>
-
-___________________
 
 ## My Yoga Story
 

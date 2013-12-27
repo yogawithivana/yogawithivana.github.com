@@ -6,17 +6,19 @@ sharing: false
 footer: true
 sidebar: false
 ---
-
-> Yoga is...?  
+ 
 > Breathing the movement   
 > Finding the silence  
-> deep within 
+> Deep within
+> 
 
 <div class="columns">
 
-<p>Teaching yoga for me means inspiring and empowering, helping a student discover the inner grace and the calm strength within him/herself. I find it important to approach every student as unique as they are. I track students' progress and plan the classes carefully having in mind each student's specific needs and abilities and their pace of changing.</p>
+<p>Teaching yoga from the heart in a relaxed and non-competitive atmosphere.</p> 
 
-<p>Recently my main focus has been pregnancy yoga, please check the group class page for more info. I also have some hands-on experience in using yoga in weight management and management of various chronic health conditions and sport injuries, working with people with diabetes, cardiovascular disease, hypertension, respiratory and orthopedic problems.</p>
+<p>Ivana is a warm and approachable yoga teacher with over 1000 hours of training from the Yoga Institute Santacruz in India and The Yoga Federation of Serbia. Her teaching is strongly influenced by anatomy and physiology, her passion for silence, movement and yoga of self-enquiry.</p>
+
+<p>Being trained in yoga therapy, she has had a chance to work with people with diabetes, cardiovascular disease, respiratory and orthopedic problems and teach pregnancy yoga - both antenatal and postnatal. She also has some hands-on experience in using yoga in weight management and recovery from sport injuries.</p>
 
 <p class="centeredimage"><img src="images/Siddhasana.jpg" alt="Siddhasana"></img></p>
 
