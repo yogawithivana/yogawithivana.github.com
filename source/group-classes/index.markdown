@@ -12,9 +12,11 @@ weight: 3
 
 <div class="columns">
 
-	<p>The classes are always different and usually focussed on a particular concept or working on a certain area of the body. I like mixing active and quiet segments following both students' and my moods and energy levels, combining static Hatha postures with flowing dance-like sequences, reflection and meditation. I encourage my students to explore and play, making sure that everyone is getting the most out of their practice, whatever their abilities, and of course, that everyone is having fun.</p>
+<p>The classes are always different - focussed on a particular concept or working on a certain area of the body. I like mixing active and quiet segments, combining flowing dance-like sequences with static Hatha postures, reflection and meditation.</p>
+	
+<p>I find it important to approach every person as unique as they are, addressing individuals within a group. Tracking students' progress I plan the classes carefully having in mind the group as a whole and each person’s specific needs and abilities and the way they change.</p>
 
-	<p>Please arrive 10 minutes earlier, wear something comfortable and try not to have a big meal minimum 2 hours before the class. I have some yoga mats here, but feel free to bring your own if you prefer.</p>
+<p>Please arrive 10 minutes earlier, wear something comfortable and try not to have a big meal minimum 2 hours before the class. I have some yoga mats here, but feel free to bring your own if you prefer.</p>
 
 </div>
 

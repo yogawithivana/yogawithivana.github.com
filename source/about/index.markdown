@@ -8,8 +8,6 @@ sidebar: false
 weight: 2
 ---
 
-
-
 ## My Yoga Story
 
 <div class="columns">
