@@ -7,7 +7,7 @@ categories: [meditation, Yoga Sutras]
 ---
 ### Searching for Wisdom or Escaping the Information Overload? 
 
-What is meditation? In one form or another and under different names it has been around for centuries in both East and West as part of various intellectual and religious practices. Meditation is growth, says [Osho](http://en.wikipedia.org/wiki/Rajneesh). It's going back to the universal human in ourselves, [Béla Hamvas](http://hamvasbela.org/en/indexen.html) would say, and even deeper – tapping into the divine essence of every one of us.
+What is meditation? In one form or another and under different names it has been around for centuries in both East and West as part of various intellectual and religious practices. Meditation is growth, says [Osho](http://en.wikipedia.org/wiki/Rajneesh). It's going back to the universal human in ourselves – as [Béla Hamvas](http://hamvasbela.org/en/indexen.html) would say – and even deeper, tapping into the divine essence of every one of us.
 
 Meditation can mean different things for different people and that is what is beautiful about it. It could be as simple as just closing your eyes and sitting still. It's diving inwards, being with yourself. Bringing the focus within, instead of being preoccupied by the content of the senses.
 
@@ -27,7 +27,7 @@ But at the end of the day, it doesn't matter what your motivation to start pract
  
 Assuming stillness of the body we are diving into ourselves - staying quiet as sounds around us change, as our bodily sensations change, as our own thoughts unfold. Taking a step back and looking at our worries with detachment we suddenly feel like Alice in Wonderland, who realised that the Queen of Hearts and whole her army are just a stack of harmless playing cards. 
 
-And gradually, we become able to look beyond the content of the mind - reaching the silence beneath the words, discovering the life within us in all it's beautiful simplicity.
+And gradually, we become able to look beyond the content of the mind - reaching the silence beneath the words, discovering the life within us in all its beautiful simplicity.
 
 Here are a few books that in one way or another influenced my meditation practice. I hope you will find some of them interesting.
  
