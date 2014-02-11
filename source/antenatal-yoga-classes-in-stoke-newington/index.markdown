@@ -14,20 +14,19 @@ footer: true
     <p>Gentle and playful yoga classes twice a week, especially adapted for pregnancy.</p>
 
     <p>Times:<br />
-    Sundays 11.00 – 12.00<br />
-    Wednesdays 20.30 – 21.30</p>
+    Sundays 11.00 – 12.00</p>
 
     <p>Place:<br />
     <a href="http://n16boilerhouse.com/about/">The Boiler House Community Space</a><br />
     George Downing Estate, Cazenove Road<br />
     Stoke Newington, London, N16 6BE</p>
 
-    <p>Price:<br />
-    £8 / £5 for unemployed and student mums</p>
+    <p>Price: £40 for 5 classes<br />
+    or £9 drop-in</p>
 
-    <p>Feel free to ring 07936348233 or mail me@yogawithivana.com with questions.</p>
+    <p>Feel free to ring 07936348233 or mail me@yogawithivana.com or just pop in and find out more.</p>
 
-    <img src="../images/pregnancy_yoga_poster.jpg" alt="Flyer"></img>
+    <img src="../images/pregnancy_yoga_poster1.jpg" alt="Flyer"></img>
 
 </div>
 
