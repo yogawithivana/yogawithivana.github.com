@@ -18,6 +18,9 @@ body > header {
 }
 article {
   text-align: justify;
+  ul, ol {
+    text-align: left;
+  }
 }
 section#coming-soon {
   padding-top: 5em;

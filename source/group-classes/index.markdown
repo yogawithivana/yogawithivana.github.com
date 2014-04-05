@@ -12,12 +12,62 @@ weight: 3
 
 <div class="columns">
 
-<p>I find it important to approach every person as unique as they are, addressing individuals within a group. Tracking students' progress I plan the classes carefully having in mind the group as a whole and each person’s specific needs and abilities and the way they change.</p>
+<p>The classes are always different, combining flowing dance-like sequences with classical hatha yoga, reflection and meditation. I try to create a safe and friendly environment where every student feels free to explore and play, discovering their own unique expression of yoga and an innate ability of body to heal itself.</p>
 
-<p>The classes are always different, dedicated to a particular theme -  a more or less abstract concept or working on an area of the body. I like mixing active and quiet segments, combining flowing dance-like sequences with static Hatha postures, reflection and meditation.</p>
-	
-<p>Please arrive 10 minutes earlier, wear something comfortable and try not to have a big meal minimum 2 hours before the class. I have some yoga mats here, but feel free to bring your own if you prefer.</p>
+<p>Please arrive 10 minutes earlier, wear something comfortable and try not to have a big meal minimum 2 hours before the class. Feel free to bring your own yoga mat if you have one, but there a couple of spare ones here too.</p>
 
+</div>
+
+___________________
+
+<div class="columns">
+
+    <h2><a href="../gentle-yoga-flow-postnatal-classes-in-stoke-newington/">Healing flow yoga</a></h2>
+    
+    <p>Gentle flowing yoga classes bringing together yoga therapy and fluidity of vinyasa flow. <a href="../gentle-yoga-flow-postnatal-classes-in-stoke-newington/">More info &rarr;</a></p>
+
+    <p>Five week course - starting on 29 April (9 places available).</p>
+
+    <p>Time:<br />
+    Tuesdays 6:30 - 7:30 pm</p>
+
+    <p>Place:<br />
+    The Old Fire Station<br />
+    61 Leswin Road<br />
+    Stoke Newington<br />
+    London, N16 7NX</p>
+    
+     <p>Course fee: £35 for 5 classes<br />
+    	or £9 drop-in, if there is space</p>
+
+    <p>Mail me@yogawithivana.com or call 07936348233 to book your place.</p>
+
+    <img src="../images/healing_flow_yoga.jpg" alt="Flyer"></img>
+
+</div>
+
+________
+
+<div class="columns">
+
+    <h2>Yoga on Wednesdays</a></h2>
+    
+    <p>Somewhere between uplifting vinyasa flow and strengthening hatha; The invigorating exercise is often ended with therapeutic postures, dedicated to a specific area of the body. Any level of ability welcome.<br/>
+
+    <p>Time:<br />
+    Wednesdays 19:50 – 20:50</p>
+
+    <p>Place:<br />
+    <a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0" target="_blank">Ironmonger Row Baths</a><br />
+    1 Norman Street<br/>
+    EC1V 3AA, London</p>
+    
+     <p>Booking in advance required.<br /> 
+     Please mail me@yogawithivana.com or call 07936348233 for more details.</p>
+   
+    <img src="../images/yoga_bubbles1.jpg" alt="Flyer"></img>
+
+    Photo credits: <a href="http://www.johndalton.me/category/art/yoga-art/" target="_blank">Yoga Art by John Dalton</a><br />
 </div>
 
 ___________________
@@ -29,16 +79,16 @@ ___________________
     <p>Gentle and playful yoga classes suitable for any stage of pregnancy.<br/>
     <a href="../antenatal-yoga-classes-in-stoke-newington/#more_info">More about my approach to pregnancy &rarr;</a></p>
 
-    <p>Times:<br />
-    Sundays 11.00 – 12.00</p>
+    <p>Time:<br />
+    Sundays 11:00 – 12:00</p>
 
     <p>Place:<br />
-    <a href="http://n16boilerhouse.com/about/">The Boiler House Community Space</a><br />
+    <a href="http://n16boilerhouse.com/about/" target="_blank">The Boiler House Community Space</a><br />
     George Downing Estate, Cazenove Road<br/>
     Stoke Newington, London, N16 6BE</p>
     
      <p>Price: £40 for 5 classes<br />
-    	or £9 drop-in</p>
+        or £9 drop-in</p>
 
     <p>Feel free to ring 07936348233 or mail me@yogawithivana.com and find out more.</p>
 
@@ -47,32 +97,6 @@ ___________________
 </div>
 
 ___________________
-
-<div class="columns">
-
-    <h2>Yoga on Wednesdays</a></h2>
-    
-    <p>Somewhere between uplifting vinyasa flow and strengthening hatha; The invigorating exercise is often ended with therapeutic postures, dedicated to a specific area of the body. Any level of ability welcome. <br/>
-
-    <p>Time:<br />
-    Wednesdays 19.50 – 20.50</p>
-
-    <p>Place:<br />
-    <a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0">Ironmonger Row Baths</a><br />
-    1 Norman Street<br/>
-    EC1V 3AA, London</p>
-    
-     <p>Booking in advance required.<br /> 
-     Please mail me@yogawithivana.com or call 07936348233 for more details.</p>
-   
-    <img src="../images/yoga_bubbles1.jpg" alt="Flyer"></img>
-
-Photo credits: <a href="http://www.johndalton.me/category/art/yoga-art/">Yoga Art by John Dalton</a><br />
-</div>
-
-___________________
-
-
 
 <div style="text-align: center;">
 
