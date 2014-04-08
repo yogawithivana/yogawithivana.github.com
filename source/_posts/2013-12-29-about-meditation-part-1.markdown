@@ -28,14 +28,5 @@ But at the end of the day, it doesn't matter what your motivation to start pract
 Assuming stillness of the body we are diving into ourselves - staying quiet as sounds around us change, as our bodily sensations change, as our own thoughts unfold. Taking a step back and looking at our worries with detachment we suddenly feel like Alice in Wonderland, who realised that the Queen of Hearts and whole her army are just a stack of harmless playing cards. 
 
 And gradually, we become able to look beyond the content of the mind - reaching the silence beneath the words, discovering the life within us in all its beautiful simplicity.
-
-Here are a few books that in one way or another influenced my meditation practice. I hope you will find some of them interesting.
- 
-  1.  Béla Hamvas: Scientia Sacra, Metaphysics of Yoga, 1988 
-  2.  I am That - Talks with Sri Nisagradatta Maharaj, 1973
-  3.  Bhagwan S Rajneesh, Osho - The Book of Secrets, 1977
-  4.  Yoga Sutras of Patanjali - Stray Thoughts of Dr Jayadeva Yogendra and Hansaji, The Yoga Institute Santacruz, Bombay 2009
-  5.  Swami Satyananda Saraswati - Meditations from the Tantras, Bihar School of Yoga, 1975    
-  6. Jon Kabat-Zinn - Wherewer You Go - There You Are, 1994
   
   

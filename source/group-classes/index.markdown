@@ -12,9 +12,10 @@ weight: 3
 
 <div class="columns">
 
-<p>The classes are always different, combining flowing dance-like sequences with classical hatha yoga, reflection and meditation. I try to create a safe and friendly environment where every student feels free to explore and play, discovering their own unique expression of yoga and an innate ability of body to heal itself.</p>
+<p>
+Each class is different, combining flowing dance-like sequences with traditional hatha yoga, reflection and meditation. I don’t believe in perfect alignment and trying to achieve a perfectly-looking final pose. It's more about exploring the body thorugh movement and breath, letting the inner life of the body unfold.</p>
 
-<p>Please arrive 10 minutes earlier, wear something comfortable and try not to have a big meal minimum 2 hours before the class. Feel free to bring your own yoga mat if you have one, but there a couple of spare ones here too.</p>
+<p>Please arrive 10 minutes earlier, wear comfortable clothes and try not to have a big meal minimum 2 hours before the class. You might feel more comfortable to practice on your own yoga mat, but let me know if you don't have any, I have a couple of spare mats too.</p>
 
 </div>
 

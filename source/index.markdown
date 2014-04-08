@@ -8,16 +8,14 @@ sidebar: false
 ---
  
 > Teaching yoga from the heart   
-> in a relaxed, non-competitive atmosphere 
+> in warm, non-competitive atmosphere 
 >
 
 <div class="columns">
 
-<p>Ivana is a warm and approachable yoga teacher with over 1000 hours of training from The Yoga Institute Santacruz in India and The Yoga Federation of Serbia, accredited by Independent Yoga Network. As a teacher she is strongly influenced by anatomy and physiology, her fascination with silence, movement and yoga of self-enquiry.</p>
+<p>The fast-paced life in big cities leaves imprint on our bodies. Not even aware of the tension that we carry around in our muscles, we use the bodies less and less. The range of movement gradually decreases and muscles shorten. Practicing yoga can reverse this process, helping us learn how to use our bodies to their full capacity, setting them free of tension that we've accumulated over years. And freeing the body, reviving its suppleness we are making a step closer towards freeing the mind. </p>
 
-<p>Being trained in yoga therapy, she has had a chance to work with people with diabetes, cardiovascular disease, respiratory and orthopedic disorders and teach pregnancy yoga - both antenatal and postnatal. She also has some hands-on experience in using yoga in weight management and recovery from sport injuries.</p>
-
-<div class="ornament"></div>
+<p>Yoga helps us to reconnect with the body, the breath, the powerful force of nature breathing through our bodies, finding a sense of wholeness. We learn how to be present, to observe and listen patiently to whatever lies within us and to be able to embrace it.</p>
 
 <p class="centeredimage"><img src="images/Siddhasana.jpg" alt="Siddhasana"></img></p>
 
