@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Group Classes"
+title: "Group classes"
 comments: false
 sharing: false
 footer: true

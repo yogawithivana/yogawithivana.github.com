@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Private Classes"
+title: "One-to-one yoga"
 comments: false
 sharing: false
 footer: true
@@ -10,7 +10,7 @@ weight: 4
 
 <div class="columns">
 
-<p>Everyone is unique. If you are looking to get a tailor-made practice suited to your body, health and lifestyle one to one classes are probably the best choice. You can get full attention and focus on your needs whether you would like to lose weight, recover from an injury, use yoga to help you cope with a chronic health condition, or bring your personal practice to a new level.</p>
+<p>Private tuition is a very rewarding way of practising where you can get full attention and a lot of feedback. The sessions are fully tailored to your needs and interests and can help you focus on a specific aim (e.g. losing weight, recovering from an injury), work on something that you've find difficult in a group class or would like to explore deeper.</p>
 
 <p class="centeredimage"><img src="../images/Bakasana.jpg" alt="Bakasana"></img></p>
 
@@ -18,28 +18,29 @@ weight: 4
 
 <div style="text-align: center;">
 
-<p>You can choose between:</p>
+<h2>One-to-one yoga</h2>
 
-<h2>One to One Yoga Classes</h2>
-
-<p>Consisting of:<br />
-15 minutes consultation about your needs/goals<br />
-1 hour of tailor-made asana practice and yoga nidra<br />
-Recommendation of a safe self-practice</p>
+<p>A typical one-to-one class consists of:<br />
+        15 minutes consultation about your needs/goals, health, lifestyle, diet<br />
+		1 hour 10 min of tailor-made practice<br />
+		Recommendation for your practice at home</p>
 
 <p>Price: £50<br />
-Package of 5 One to One Yoga Lessons: £220<br />
-I am available to teach One to One classes at my home or yours.</p>
+(could be shared by two people)<br />
+Package of 5 One to One Yoga Lessons: £200<br />
+I am available to teach at my home or yours.</p>
 
-<p>I'm happy to give student and low income discounts or teach on an exchange basis.<br/>
+<p>I'm happy to give low income discounts or teach on an exchange basis.<br/>
 	If you think you qualify for a discount or have a nice idea for an exchange,<br/>
 	please get in touch!</p>
 
-<h2>Semi-Private Yoga Classes / Workplace Yoga</h2>
+
+<h2>Workplace yoga</h2>
 
 
-<p>Practice with your friends or colleagues at the time and place suited to you.<br />
-Special discount available for ethical businesses and tech start-ups.<br />
+<p>Practice with your colleagues before work, on your lunchbreak or after work. I can arrange a trial class any time that suits you.</p>
+
+<p>Special discount available for ethical businesses and tech start-ups.<br />
 Get in touch to find out more!</p>
 
 </div>
