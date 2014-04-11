@@ -13,7 +13,7 @@ weight: 3
 <div class="columns">
 
 <p>
-Each class is different, combining flowing dance-like sequences with traditional hatha yoga, reflection and meditation. I don’t believe in perfect alignment and trying to achieve a perfectly-looking final pose. It's more about exploring the body thorugh movement and breath, letting the inner life of the body unfold.</p>
+Each class is different, combining flowing dance-like sequences with traditional hatha yoga, reflection and meditation. I don't believe in forceful pushing of limits in order to achieve a perfectly-looking final pose. It's more about exploring the body thorugh movement and breath, letting the inner life of the body unfold.</p>
 
 <p>Please arrive 10 minutes earlier, wear comfortable clothes and try not to have a big meal minimum 2 hours before the class. You might feel more comfortable to practice on your own yoga mat, but let me know if you don't have any, I have a couple of spare mats too.</p>
 
@@ -60,7 +60,7 @@ ________
 
     <p>Place:<br />
     <a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0" target="_blank">Ironmonger Row Baths</a><br />
-    1 Norman Street<br/>
+    1 Norman Street<br /> 
     EC1V 3AA, London</p>
     
      <p>Booking in advance required.<br /> 

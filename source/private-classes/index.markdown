@@ -25,14 +25,13 @@ weight: 4
 		1 hour 10 min of tailor-made practice<br />
 		Recommendation for your practice at home</p>
 
-<p>Price: £50<br />
+<p>Price: £50 for 1.5 hour<br />
 (could be shared by two people)<br />
-Package of 5 One to One Yoga Lessons: £200<br />
-I am available to teach at my home or yours.</p>
+<br />
+NEW! Spring discount: £200 for the package of 5 sessions<br />
+</p>
 
-<p>I'm happy to give low income discounts or teach on an exchange basis.<br/>
-	If you think you qualify for a discount or have a nice idea for an exchange,<br/>
-	please get in touch!</p>
+<p>At the moment, I am available to teach private sessions in East, North-East and Central London. Please try to book at least a week in advance. 24 hour cancellation policy applies.</p>
 
 
 <h2>Workplace yoga</h2>
