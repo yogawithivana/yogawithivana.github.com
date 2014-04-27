@@ -9,7 +9,7 @@ footer: true
 
 <div class="columns">
 
-    <h2>Healing flow yoga</h2>
+    <h2>Light flow yoga</h2>
     
     <p>Gentle flowing yoga classes bringing together yoga therapy and fluidity of vinyasa flow.</p>
 

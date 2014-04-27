@@ -23,7 +23,7 @@ ___________________
 
 <div class="columns">
 
-    <h2><a href="../gentle-yoga-flow-postnatal-classes-in-stoke-newington/">Healing flow yoga</a></h2>
+    <h2><a href="../gentle-yoga-flow-postnatal-classes-in-stoke-newington/">Light flow yoga</a></h2>
     
     <p>Gentle flowing yoga classes bringing together yoga therapy and fluidity of vinyasa flow. <a href="../gentle-yoga-flow-postnatal-classes-in-stoke-newington/">More info &rarr;</a></p>
 
