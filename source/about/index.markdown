@@ -10,7 +10,7 @@ weight: 2
 
 <div class="columns">
 
-<p>Hi there! My name is Ivana Demmel. I'm a dedicated yoga practitioner, a teacher with over 1000 hours of training and an ever-learning student of yoga. My teaching style reflects my fascination with silence, logic and movement, drawing on various influences from traditional to contemporary. Lately I find great inspiration in Angela Farmer’s fluid, explorative movement and Scaravelli's work with breath and gravity.</p>
+<p>Hi there! My name is Ivana Demmel. I'm a dedicated yoga practitioner, a teacher with over 1000 hours of training and an ever-learning student. My teaching style draws on various influences from traditional to contemporary, finding inspiration in mindfulness meditation, anatomy, silence, movement and yoga of self-inquiry. I am accredited with the <a href="http://www.independentyoganetwork.org/">Independent Yoga Network</a> (500 IYN).</p>
 
 <p class="centeredimage"><img src="../images/meditation_in_tall_grass.jpg" alt="Meditation in tall grass"></img></p>
 
