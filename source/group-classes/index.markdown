@@ -14,27 +14,29 @@ weight: 3
    
 <p>6:30 - 7:30 pm
 
-<a href="../gentle-yoga-flow-postnatal-classes-in-stoke-newington/">light flow yoga</a> 
-at The Old Fire Station<br/> 61 Leswin Road,
-Stoke Newington, N16 7NX London</p>   
+<a href="../gentle-yoga-flow-postnatal-classes-in-stoke-newington/">gentle flow yoga</a> 
+at The Old Fire Station<br/> in
+Stoke Newington</p>   
 
 <h2>Wednesday</h2>
 
-<p>7:50 – 8:50 pm <a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0" target="_blank">hatha flow / vinyasa flow at Ironmonger Row Baths</a><br/> 1 Norman Street, EC1V 3AA, London</p>
+<p>7:50 – 8:50 pm <a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0" target="_blank">hatha flow / vinyasa flow at Ironmonger Row Baths</a><br/> near Old Street</p>
 
 <h2>Thursday</h2>
 
-<p>10:00 – 11:30 am <a href="http://www.better.org.uk/leisure/clissold-leisure-centre">pregnancy yoga at Clissold Leisure Centre</a><br/> 63 Clissold Road, Hackney, N16 9EX London</p>
+<p>10:00 – 11:00 am <a href="http://www.better.org.uk/leisure/clissold-leisure-centre">pregnancy yoga at Clissold Leisure Centre</a><br/>in
+Stoke Newington</p>
 
-<p>11:30 am – 1:00 pm <br/> at <a href="http://www.better.org.uk/leisure/clissold-leisure-centre">postnatal yoga (mum and baby) at Clissold Leisure Centre</a></br> 63 Clissold Road, Hackney, N16 9EX London</p>
+<p>11:00 am – 12:00 pm <br/> at <a href="http://www.better.org.uk/leisure/clissold-leisure-centre">postnatal yoga (mum and baby) at Clissold Leisure Centre</a></br>in
+Stoke Newington</p>
 
 <h2>Saturday</h2>
 
-<p>2:30 – 4:00 pm <a href="http://www.better.org.uk/leisure/clissold-leisure-centre">advanced hatha yoga at Clissold Leisure Centre</a></br> 63 Clissold Road, Hackney, N16 9EX London</p>
+<p>2:30 – 4:00 pm <a href="http://www.better.org.uk/leisure/clissold-leisure-centre">advanced hatha yoga at Clissold Leisure Centre</a></br> starting from June, watch this space!</p>
 
 <h2>Sunday</h2>
 
-<p>11:00 am – 12:00 pm <a href="../antenatal-yoga-classes-in-stoke-newington/#more_info">pregnancy yoga at the Boiler House Community Space</a></br> George Downing Estate, Cazenove Road, Stoke Newington, London, N16 6BE</p>
+<p>11:00 am – 12:00 pm <a href="../antenatal-yoga-classes-in-stoke-newington/#more_info">pregnancy yoga at the Boiler House Community Space</a> in Stoke Newington</p>
      
 </div>
 
