@@ -11,7 +11,7 @@ footer: true
 
     <h2>Antenatal yoga</h2>
     
-    <p>Gentle and playful yoga classes twice a week, especially adapted for pregnancy.</p>
+    <p>Gentle and playful yoga classes especially adapted for pregnancy</p>
 
     <p>Times:<br />
     Sundays 11.00 – 12.00</p>
@@ -40,7 +40,7 @@ footer: true
     
     <h3>The miracle of life</h3>
 
-    <p>Yoga takes us from thinking into being, out of our heads, back into our bodies. It brings greater self-awareness and awareness of the presence of the growing baby inside your body, of the miracle of creation happening within your body, the female divine force in each of us. Using the power of breath and movement you will learn how to release tension and go through this beautiful and fragile period of your life strong and relaxed.</p>
+    <p>Yoga takes us from thinking into being, out of our heads, back into our bodies. It brings greater self-awareness and awareness of the presence of the growing baby inside your body, of the miracle of creation happening within your body. Using the power of breath and movement you will learn how to release tension and go through this beautiful and fragile period of your life strong and relaxed.</p>
 
     <h3>Yoga and labour</h3>
 
