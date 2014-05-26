@@ -15,28 +15,28 @@ weight: 3
 <p>6:30 - 7:30 pm
 
 <a href="../gentle-yoga-flow-postnatal-classes-in-stoke-newington/">gentle flow yoga</a> 
-at The Old Fire Station<br/> in
+<br/>The Old Fire Station<br/>
 Stoke Newington</p>   
 
 <h2>Wednesday</h2>
 
-<p>7:50 – 8:50 pm <a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0" target="_blank">hatha flow / vinyasa flow at Ironmonger Row Baths</a><br/> near Old Street</p>
+<p>7:50 – 8:50 pm vinyasa flow<br/><a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0" target="_blank">
+Ironmonger Row Baths</a><br/>Old Street</p>
 
 <h2>Thursday</h2>
 
-<p>10:00 – 11:00 am <a href="http://www.better.org.uk/leisure/clissold-leisure-centre">pregnancy yoga at Clissold Leisure Centre</a><br/>in
+<p>10:00 – 11:00 am pregnancy yoga<br/><a href="http://www.better.org.uk/leisure/clissold-leisure-centre"> Clissold Leisure Centre</a><br/>
 Stoke Newington</p>
 
-<p>11:00 am – 12:00 pm <br/> at <a href="http://www.better.org.uk/leisure/clissold-leisure-centre">postnatal yoga (mum and baby) at Clissold Leisure Centre</a></br>in
-Stoke Newington</p>
+<p>11:00 am – 12:00 pm postnatal yoga<br/><a href="http://www.better.org.uk/leisure/clissold-leisure-centre">Clissold Leisure Centre</a></br>Stoke Newington</p>
 
 <h2>Saturday</h2>
 
-<p>2:30 – 4:00 pm <a href="http://www.better.org.uk/leisure/clissold-leisure-centre">advanced hatha yoga at Clissold Leisure Centre</a></br> starting from June, watch this space!</p>
+<p>2:30 – 4:00 pm advanced hatha yoga<br/><a href="http://www.better.org.uk/leisure/clissold-leisure-centre">Clissold Leisure Centre</a></br>starting from June, watch this space!</p>
 
 <h2>Sunday</h2>
 
-<p>11:00 am – 12:00 pm <a href="../antenatal-yoga-classes-in-stoke-newington/#more_info">pregnancy yoga at the Boiler House Community Space</a> in Stoke Newington</p>
+<p>11:00 am – 12:00 pm <a href="../antenatal-yoga-classes-in-stoke-newington/#more_info">pregnancy yoga</a></br>Boiler House Community Space</br>Stoke Newington</p>
      
 </div>
 
