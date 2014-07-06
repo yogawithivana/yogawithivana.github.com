@@ -12,6 +12,10 @@ weight: 3
 
 <h2>Tuesday</h2>
    
+<p>7:30 - 8:30 am morning yoga by the pool<br/> 
+<a href="http://www.better.org.uk/leisure/london-fields-lido">GLL London Fields Lido</a><br/>Hackney
+
+
 <p>6:30 - 7:30 pm
 
 <a href="../gentle-yoga-flow-postnatal-classes-in-stoke-newington/">gentle flow yoga</a> 
@@ -20,7 +24,7 @@ Stoke Newington</p>
 
 <h2>Wednesday</h2>
 
-<p>7:50 – 8:50 pm vinyasa flow<br/><a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0" target="_blank">
+<p>7:50 – 8:50 pm hatha/vinyasa flow<br/><a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0" target="_blank">
 GLL Ironmonger Row Baths</a><br/>near Old Street</p>
 
 <h2>Thursday</h2>
