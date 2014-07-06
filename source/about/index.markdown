@@ -10,7 +10,7 @@ weight: 2
 
 <div class="columns">
 
-<p>Hi there! My name is Ivana Demmel. I'm a dedicated yoga practitioner, a teacher and an ever-learning student of yoga. I'm lucky to have had a chance to learn yoga in both East and West, discovering the beauty of humility, discipline and the intuitive approach from Hindu teachers, but also precision, anatomy and alignment from Western teachers. My teaching style draws on various influences from traditional to contemporary, finding inspiration in Yoga Sutras and Bhagavad Gita, mindfulness meditation, classical Indian dance, my passion for beauty, silence and movement.</p>
+<p>Hi there! My name is Ivana. I'm a dedicated yoga practitioner, a teacher and an ever-learning student. I'm lucky to have had a chance to learn yoga in both East and West, discovering the beauty of humility, discipline and the intuitive approach from Hindu teachers, but also precision, anatomy and alignment from Western teachers. I find great inspiration in Yoga Sutras, mindfulness meditation, classical Indian dance and movement in general, silence and yoga of self-inquiry.</p>
 
 <p class="centeredimage"><img src="../images/meditation_in_tall_grass.jpg" alt="Meditation in tall grass"></img></p>
 
@@ -20,9 +20,9 @@ ___________________
 
 <div class="columns">
 
-<p>The most tranformative part of my studies was with <a href="http://theyogainstitute.org/">the Yoga Institute Santacruz</a> in Mumbai, India. It's a modest, traditionally organised school with ashram founded in 1918 by Shri Yogendra, disciple of Paramahamsa Madhavdasji and since then run by Yogendra family, in spirit of Bhagavad Gita. I found it beautiful that they see yoga as a way of life, deeply rooted in non-violence and reverence for all life, selfless work, discipline and constant self-study.</p>
+<p>The most tranformative part of my studies was with <a href="http://theyogainstitute.org/">the Yoga Institute Santacruz</a> in Mumbai, India. It's a modest, traditionally organised school with ashram founded in 1918 by Shri Yogendra, disciple of Paramahamsa Madhavdasji and since then run by Yogendra family in spirit of Bhagavad Gita. I found it beautiful that they see yoga as a way of life, deeply rooted in non-violence and reverence for all life, selfless work, discipline and constant self-study.</p>
 
-<p>Although a good part of the Institute's work is what we in the West would call yoga therapy, they never use this very expression, but simply say that they teach yoga to everyone. Yoga is not a pill - my teacher Hasaji would say. Healing that comes as a result of the practice is just a by-product of living in harmony with yourself and the world.</p> 
+<p>Although a good part of the Institute's work is what we in the West would call yoga therapy, they never use this very expression, but simply say that they teach yoga to everyone. Yoga is not a pill - my teacher Hansaji would say. Healing that comes as a result of the practice is just a by-product of living in harmony with yourself and the world.</p> 
 
 <p>During the time I spent living at the Institute's ashram we had a chance to work in health camps dedicated to people with diabetes, hypertension, cardiac disease, asthma, arthritis, women during pregnancy and in postnatal period and children with special needs. Yoga doesn't treat an illness but the man as whole, making you live a happier, more balanced and more fulfilled life in spite of the illness. </p>
 
@@ -34,7 +34,7 @@ ___________________
 
 <div class="columns">
 
-<p>Being passionate about Indian philosophy I dedicate every free moment to read about Samkhya, Advaita Vedanta, Buddhism and other ancient systems of thought from Indian subcontinent. I find the cornerstone of my practice in wisdom of Yoga Sutras and Bhagavad Gita, seeing yoga as a search for wholeness pursued through discipline, humility and gratitude.</p>
+<p>Being fascinated by Indian philosophy I dedicate every free moment to read about Samkhya, Advaita Vedanta, Buddhism and other ancient systems of thought from Indian subcontinent. I find the cornerstone of my practice in wisdom of Yoga Sutras and Bhagavad Gita, seeing yoga as a search for wholeness pursued through discipline, humility and gratitude.</p>
 
 <p>Yoga for me means going back home to who you really are. Discovering beauty in being a tiny acorn with a potential to grow into a whole oak tree. Embracing all your weaknesses and imperfections and working from there. Embracing the world as it is and as it changes. Breathing, moving, smiling, loving, sharing, giving.</p>
 
