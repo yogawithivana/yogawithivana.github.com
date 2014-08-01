@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "About Meditation - Part 1"
+title: "About Meditation"
 date: 2013-12-29 19:30
 comments: true
 categories: [meditation, Yoga Sutras]
 ---
-### Searching for Wisdom or Escaping the Information Overload? 
 
 What is meditation? In one form or another and under different names it has been around for centuries in both East and West as part of various intellectual and religious practices. Meditation is growth, says [Osho](http://en.wikipedia.org/wiki/Rajneesh). It's going back to the universal human in ourselves – as [Béla Hamvas](http://hamvasbela.org/en/indexen.html) would say – and even deeper, tapping into the divine essence of every one of us.
 
@@ -27,6 +26,6 @@ But at the end of the day, it doesn't matter what your motivation to start pract
  
 Assuming stillness of the body we are diving into ourselves - staying quiet as sounds around us change, as our bodily sensations change, as our own thoughts unfold. Taking a step back and looking at our worries with detachment we suddenly feel like Alice in Wonderland, who realised that the Queen of Hearts and whole her army are just a stack of harmless playing cards. 
 
-And gradually, we become able to look beyond the content of the mind - reaching the silence beneath the words, discovering the life within us in all its beautiful simplicity.
+And gradually, we become able to look beyond the content of the mind - reaching the silence beneath the words, experiencing the life within us in all its beautiful simplicity.
   
   

@@ -27,9 +27,7 @@ weight: 4
 
 <p>Price: £50 for 1.5 hour<br />
 (could be shared by two people)<br />
-<br />
-NEW! Spring discount: £200 for the package of 5 sessions<br />
-</p>
+
 
 <p>At the moment, I am available to teach private sessions in East, North-East and Central London. Please try to book at least a week in advance. 24 hour cancellation policy applies.</p>
 

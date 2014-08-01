@@ -10,7 +10,7 @@ weight: 2
 
 <div class="columns">
 
-<p>Hi there! My name is Ivana. I'm a dedicated yoga practitioner, a teacher and an ever-learning student. I'm lucky to have had a chance to learn yoga in both East and West, discovering the beauty of humility, discipline and the intuitive approach from Hindu teachers, but also precision, anatomy and alignment from Western teachers. I find great inspiration in Yoga Sutras, mindfulness meditation, classical Indian dance and movement in general, silence and yoga of self-inquiry.</p>
+<p>Hi there! My name is Ivana. I'm grateful to have had a chance to learn yoga in both East and West, discovering the beauty of humility, discipline and the intuitive approach from Hindu teachers, but also precision, anatomy and alignment from Western teachers. Some of my favourites include Judith Lasater, Doug Keller, Esther Ekhart, Angela Farmer, Jill Satterfield. I find great inspiration in Yoga Sutras, nonviolence, reverential ecology of Satish Kumar, mindfulness meditation and classical Indian dance.</p>
 
 <p class="centeredimage"><img src="../images/meditation_in_tall_grass.jpg" alt="Meditation in tall grass"></img></p>
 
@@ -20,7 +20,7 @@ ___________________
 
 <div class="columns">
 
-<p>The most tranformative part of my studies was with <a href="http://theyogainstitute.org/">the Yoga Institute Santacruz</a> in Mumbai, India. It's a modest, traditionally organised school with ashram founded in 1918 by Shri Yogendra, disciple of Paramahamsa Madhavdasji and since then run by Yogendra family in spirit of Bhagavad Gita. I found it beautiful that they see yoga as a way of life, deeply rooted in non-violence and reverence for all life, selfless work, discipline and constant self-study.</p>
+<p>The most transformative part of my studies was with <a href="http://theyogainstitute.org/">the Yoga Institute Santacruz</a> in Mumbai, India. It's a modest, traditionally organised school with ashram founded in 1918 by Shri Yogendra, disciple of Paramahamsa Madhavdasji and since then run by Yogendra family in spirit of Bhagavad Gita. I found it beautiful that they see yoga as a way of life, deeply rooted in humility and reverence for all life, selfless work, discipline and constant self-study.</p>
 
 <p>Although a good part of the Institute's work is what we in the West would call yoga therapy, they never use this very expression, but simply say that they teach yoga to everyone. Yoga is not a pill - my teacher Hansaji would say. Healing that comes as a result of the practice is just a by-product of living in harmony with yourself and the world.</p> 
 

@@ -25,18 +25,23 @@ Stoke Newington</p>
 <h2>Wednesday</h2>
 
 <p>7:50 – 8:50 pm hatha/vinyasa flow<br/><a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0" target="_blank">
-GLL Ironmonger Row Baths</a><br/>near Old Street</p>
+GLL Ironmonger Row Baths</a><br/>Islington</p>
 
 <h2>Thursday</h2>
 
-<p>10:00 – 11:00 am pregnancy yoga<br/><a href="http://www.better.org.uk/leisure/clissold-leisure-centre"> GLL Clissold Leisure Centre</a><br/>
-Stoke Newington</p>
+<p>11:00 am – 12:00 noon park yoga for 50+<br/>as part of The New Age Games<br/>in
+Clissold park</br>Stoke Newington</br>From 7 August on
+</p>
 
-<p>11:00 am – 12:00 pm postnatal yoga<br/><a href="http://www.better.org.uk/leisure/clissold-leisure-centre">GLL Clissold Leisure Centre</a></br>Stoke Newington</p>
+<h2>Friday</h2>
+
+<p>6:30 – 7:30 pm park yoga<br/>with <a href="http://www.ourparks.org.uk/">Our Parks</a></br> in
+London Fields</p>
 
 <h2>Saturday</h2>
 
-<p>2:30 – 4:00 pm advanced hatha yoga<br/><a href="http://www.better.org.uk/leisure/clissold-leisure-centre">GLL Clissold Leisure Centre</a></br>starting from June, watch this space!</p>
+<p>10:00 – 11:00 am park yoga<br/>with <a href="http://www.ourparks.org.uk/">Our Parks</a></br>in Hackney Downs
+</p>
 
 <h2>Sunday</h2>
 
