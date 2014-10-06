@@ -21,7 +21,7 @@ footer: true
     George Downing Estate, Cazenove Road<br />
     Stoke Newington, London, N16 6BE</p>
 
-    <p>Price: £40 for 5 classes<br />
+    <p>Price: £36 for 5 classes<br />
     or £9 drop-in</p>
 
     <p>Feel free to ring 07936348233 or mail me@yogawithivana.com or just pop in and find out more.</p>

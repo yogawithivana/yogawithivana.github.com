@@ -3,7 +3,7 @@ layout: post
 title: "Warrior Mum"
 date: 2013-09-05 16:44
 comments: true
-categories: [pregnancy yoga, yoga class planning, bhavas]
+categories: [pregnancy, yoga class planning, bhavas]
 ---
 
 I've been really enjoying teaching pregnancy yoga during my own pregnancy – sharing the practice with my lovely group of mums-to-be, going together through all the ups and downs of this fragile and powerful period of our lives and being inspired by each other. However, it gets a bit inconvenient when you become the most pregnant of all the students. Running around and trying to help everyone out with slight modifications of postures becomes quite a challenge. So, entering my 39th week, I've decided to start the maternity leave and resume teaching in November.

@@ -3,7 +3,7 @@ layout: post
 title: "Strength and Softness"
 date: 2013-08-11 13:44
 comments: true
-categories: [pregnancy yoga, yoga class planning, yoga sutras, hypnobirthing]
+categories: [pregnancy, yoga class planning, yoga sutras, hypnobirthing]
 ---
 The theme for this week's pregnancy yoga class was feminine strength and softness and childbirth as a perfect balance of the two. 
 

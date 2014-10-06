@@ -3,7 +3,7 @@ layout: post
 title: "From Radish to Motherhood as a Dharma"
 date: 2013-05-22 23:20
 comments: true
-categories: [pregnancy yoga, active birth, hypnobirthing, India]
+categories: [pregnancy, active birth, hypnobirthing, The Yoga Institute, India]
 ---
 
 During my last year's stay at The Yoga Institute Santacruz in Mumbai I was amongst other trained in pregnancy yoga. This included assisting and teaching in both antenatal and postnatal camps / weekend workshops that the Institute held for local women. The camps reflected a holistic approach to yoga and pregnancy focused on learning about yogic philosophy and the way of life, from diet and positive thinking to different traditional Hatha yoga techniques adapted to pregnancy. 

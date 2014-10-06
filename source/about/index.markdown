@@ -10,7 +10,7 @@ weight: 2
 
 <div class="columns">
 
-<p>Hi there! My name is Ivana. I'm grateful to have had a chance to learn yoga in both East and West, discovering the beauty of humility, discipline and the intuitive approach from Hindu teachers, but also precision, anatomy and alignment from Western teachers. I find great inspiration in Yoga Sutras, nonviolence, reverential ecology of Satish Kumar, mindfulness meditation and classical Indian dance.</p>
+<p>Hi there! My name is Ivana. I'm a dedicated yoga practitioner, a teacher and an ever-learning student of yoga. I'm grateful to have had a chance to learn yoga in both East and West, discovering the beauty of humility, discipline and the intuitive approach from Hindu teachers, but also precision, anatomy and alignment from Western teachers. I find great inspiration in Yoga Sutras, nonviolence, reverential ecology of Satish Kumar, mindfulness meditation and classical Indian dance.</p>
 
 <p class="centeredimage"><img src="../images/meditation_in_tall_grass.jpg" alt="Meditation in tall grass"></img></p>
 

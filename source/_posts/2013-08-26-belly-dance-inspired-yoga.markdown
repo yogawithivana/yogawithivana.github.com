@@ -3,7 +3,7 @@ layout: post
 title: "Belly Dance Inspired Yoga"
 date: 2013-08-26 20:04
 comments: true
-categories: [pregnancy yoga, belly dance, yoga class planning, active birth]
+categories: [pregnancy, belly dance, yoga class planning, active birth]
 ---
 Did you know that in many parts of the world they have special dances for pregnancy and birth, celebrating fertility, roundness and ripeness of the female body in pregnancy? This is how the oriental belly dance was "invented". It was a dance of pregnancy, dedicated to the moon as the feminine element. Heavily pregnant women would get together with their female cousins and just dance. Men would not even be allowed in there, it was a "women's thing". The soft circular and spiral movements of the belly and the whole body were used to keep the woman healthy and strong and get the baby in the optimal position for birth. They would give birth dancing, gently nudging the baby down the birth canal in soft round motions.
 
