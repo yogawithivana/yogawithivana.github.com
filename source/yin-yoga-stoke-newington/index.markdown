@@ -14,7 +14,7 @@ footer: true
         <img src="https://dl.dropboxusercontent.com/u/3886907/stripy-yoga.jpg" alt="Flyer"></img>
       <br>
       <br>
-    <p>Slow and meditative floor-based practice. Poses are held for longer periods of time (1-5 minutes), releasing the muscles and using the breath and gravity to release deeper.</p>
+    <p>Slow and meditative floor-based practice. The poses are held for longer periods of time (1-5 minutes), releasing the muscles and using the breath and gravity to release deeper.</p>
 
 <p>As opposed to more active (yang) types of exercises which work mainly on muscles, stretching and strengthening them, yin yoga targets our deeper connective tissues. Especially focussing on the hips, pelvis, and lower spine it aims to improve circulation in the joints, increase flexibility, balance the flow of energy in the body and calm the mind.</p>
 
