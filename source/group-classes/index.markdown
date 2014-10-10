@@ -19,10 +19,16 @@ GLL Swiss Cottage</a><br/>Camden, NW3</p>
 
 <h2>Tuesday</h2>
 
+<p>5:30 - 6:30 pm 50+ yoga for Age UK<br/><a href="http://www.better.org.uk/leisure/queensbridge-sport-and-community-centre#/">
+Queensbridge Sport and Community Centre</a><br/>Dalston, E8</p>
+
 <p>7:35 - 8:50 pm yoga<br/><a href="http://www.better.org.uk/leisure/highbury#/">
 GLL Highbury Pool</a><br/>Islington, N5</p>
 
 <h2>Wednesday</h2>
+
+<p>9:30 - 10:30 am hatha yoga<br/><a href="http://www.better.org.uk/leisure/clissold-leisure-centre#/">
+GLL Clissold Leisure Centre</a><br/>Stoke Newington, N16</p>
 
 <p>7:50 – 8:50 pm hatha/vinyasa flow/yin yoga<br/><a href="http://www.better.org.uk/leisure/ironmonger-row-baths#carousel0" target="_blank">
 GLL Ironmonger Row Baths</a><br/>Old Street, EC1V</p>
