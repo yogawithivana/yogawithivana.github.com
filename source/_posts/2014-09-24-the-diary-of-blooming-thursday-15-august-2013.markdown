@@ -1,14 +1,10 @@
 ---
 layout: post
 title: "The Diary of Blooming"
-date: 2014-09-24 08:36
+date: 2013-08-15 08:36
 comments: true
 categories: [pregnancy, gratitude, diary]
 ---
-Sneaking out of the bedroom while my favourite one year old was still peacefully asleep, I finally got around to sort my old notes. And this was the one that made my morning :)
-
-
-###Thursday 15 August 2013
 
 The morning started with a moment of deep wordless gratitude, sitting in the living room under the pots of blooming flowers. Sitting quietly on the floor while sun gently shines through my eyelids. The room full of bright coloured cushions and soft things. A white cuddly toy cat patiently waiting for the tiny hand to touch and squeeze its soft cotton tail.
 

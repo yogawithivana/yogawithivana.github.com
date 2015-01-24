@@ -22,13 +22,11 @@ footer: true
 
     <p>Place: The Old Fire Station, 61 Leswin Road, Stoke Newington, London, N16 7NX</p>
 
-<p>Time: Thursdays lunchtime 11:55 am – 1:10 pm (starting from 13 November 2014)</p>
+<p>Time: Thursdays lunchtime 12:00 am – 1:10 pm</p>
 
 <p>Price: £9 per class<br>
 or 5 classes for £36 (one class free)</p>
 
-<p>Only 8 places available.</p>
-
-<p>Mail me@yogawithivana.com or call 07936348233 to book.</p>
+<p>Limited places. Please try and book in advance on 07936348233 or me@yogawithivana.com</p>
 
 </div>

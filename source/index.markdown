@@ -13,9 +13,9 @@ sidebar: false
 
 <div class="columns">
 
-<p>The fast-paced life leaves an imprint on our bodies. Not even aware of the tension that we carry around in our muscles, we use the bodies less and less. The range of movement gradually decreases and muscles shorten. Practicing yoga can reverse this process, setting us free of tension that we’ve accumulated over years.</p>
+<p>"If I throw a stone into the window it will break" - my teacher would say. "However, if I throw the same stone into the wall the wall won't break, the stone will just bounce off. It's not the stone that breaks the window, it's the fragility of the glass that breaks it."</p>
 
-<p>Yoga makes us move from thinking into being. We learn how to release thoughts, bring the mind to the present moment and simply breath and move. Cultivating the ability to relax into the intensity of poses, we become able to relax into stressful situations of life instead of getting caught up in the fight-or-flight response. And gradually this peaceful relaxed state of mind becomes the way we are.</p>
+<p>Explained through the metaphor of the window, yoga would be a practice of strengthening and upgrading your glass. Through various physical and mental exercises we gradually cultivate balance as everything around us constantly moves and changes, not being easily shaken by stones that will inevitably fall into our window.</p> 
 
 <p class="centeredimage"><img src="images/Siddhasana.jpg" alt="Siddhasana"></img></p>
 
