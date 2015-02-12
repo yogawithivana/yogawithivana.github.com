@@ -26,7 +26,10 @@ GLL Ironmonger Row Baths</a><br/>Old Street, EC1V 3AA</p>
 
 <p>11:00 am – 12:00 pm <a href="../antenatal-yoga-classes-in-stoke-newington/">pregnancy yoga</a></br>The Boiler House Community Space</br>Stoke Newington, N16</p>
 
-<p>New classes starting in mid February.</br>
-Please get in touch to find out more!</p> 
+<p>NEW! Two more independent classes starting in February</br> in our new studio near Springfield Park:</p>
+<p><a href="http://us6.campaign-archive2.com/?u=6ddb04df8575fd645103fa989&id=95530e8b0b">
+Saturday mornings with yoga, fruits and tea</a> 9:00 - 10:00am and</br>
+Postnatal yoga on Thursdays 12:00 - 1:00pm</p> 
+<p>Please get in touch to find out more!</p> 
 
 </div>

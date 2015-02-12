@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "About Meditation"
-date: 2013-12-29 19:30
+date: 2014-05-07 19:30
 comments: true
-categories: [meditation, Yoga Sutras]
+categories: [mindfulness, meditation, Yoga Sutras]
 ---
 
 Meditation is not just an Eastern esoteric practice, as some might think. In one form or another and under different names it has been around for centuries in both East and West, practised by monks, mystics and intellectuals alike. 
