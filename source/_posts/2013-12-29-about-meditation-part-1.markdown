@@ -6,11 +6,11 @@ comments: true
 categories: [mindfulness, meditation, Yoga Sutras]
 ---
 
-Meditation is not just an Eastern esoteric practice, as some might think. In one form or another and under different names it has been around for centuries in both East and West, practised by monks, mystics and intellectuals alike. 
+Meditation is not just an Eastern esoteric practice, as some might think. In one form or another and under different names it has been around for centuries in both East and West. It has been practised by monks, mystics and intellectuals alike - from St. Thomas Aquinas to Nikola Tesla and Sherlock Holmes who liked to simply sit down and ["throw his brain out of action"](http://www.nytimes.com/2012/12/16/opinion/sunday/the-power-of-concentration.html?smid=tw-share&_r=0) before solving any difficult case.
 
 The word meditation itself can mean different things for different people - focusing on the breath, mantra, a sound, an object or an area of the body, keeping the eyes closed or open. But what is it that all these different techniques have in common? It's bringing together focus and relaxation (creating a sort of a "relaxed focus"). Taking a moment to stop and dive inwards, watching whatever comes up in the body and mind with a detached, witness-like attitude. 
 
-We are so much used to reacting to whatever happens around us. But what if we just stop for a moment and listen instead? Someone said: if a prayer is talking to God, meditation would be listening - staying still as everything moves and changes, around and within us alike, just watching with curiosity. And with practice, we become able to look beyond the content of the mind, to experience the silence beneath sounds, the space between the breaths, the simplicity of just being instead of thinking about it.
+We are so much used to reacting to whatever happens around us. But what if we just stop for a moment and listen instead - staying still as everything keeps moving and changing, around and within us alike? What if we simply step back, stop swimming in our thoughts and just stand by the river bank for a moment watching with curiosity? Is this a path to wisdom? 
 
 <p class="centeredimage"><img src="/images/silence_over_the_water_1.jpg" alt="a man meditating by the lake"></img></p>
 
@@ -22,7 +22,7 @@ The motives for meditating in the contemporary society are much different than i
 
 There is a growing body of scientific research about benefits of different meditation techniques. [One of the studies](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/) for example, shows that regular practice of simple mindfulness meditation can cause structural changes in grey matter of the brain, especially in the areas in charge for learning and memory processes, emotion regulation and the perception of self. If you want to find out more, there is a nice article I recently found on [psychologytoday.com](http://www.psychologytoday.com/blog/use-your-mind-change-your-brain/201305/is-your-brain-meditation) that explains in plain language what happens with the brain "on meditation", check it out. 
 
-At the end of the day, it doesn't matter what your motivation to start practising meditation is. The beautiful thing is that with time and patience your practice will grow out of any motive and become a purpose to itself, gently transforming you on its way in a calmer, more compassionate and more balanced person.
+At the end of the day, it doesn't even matter what your motivation to start practising meditation is. The beautiful thing is that with time and patience your practice will grow out of any motive and become a purpose to itself, gently transforming you on its way in a calmer, more compassionate and more balanced person.
 
   
   

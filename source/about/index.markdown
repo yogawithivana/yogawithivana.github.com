@@ -10,7 +10,7 @@ weight: 2
 
 <div class="columns">
 
-<p>Hi there! My name is Ivana. I'm a practitioner,  teacher and an ever-learning student of yoga and it never stops to enchant and amaze me. I'm passionate about Indian philosophy, especially Advaita Vedanta and on the other hand about understanding our bodies and how to optimise them. Yoga for me means cultivating a balanced state of mind and a life of elegant simplicity. </p>
+<p>Hi there! My name is Ivana. I'm a yoga practitioner, a teacher and a mum to a lively toddler who makes me learn something new every day. I find great inspiration in Indian philosophy, non-violence, movement and silence. I'm also a bit of a science geek, passionate about understanding our bodies and how to optimise them. I have a soft spot for hazelnuts, film and rooftops and you can usually find me singing on the bicycle.</p>
 
 <p class="centeredimage"><img src="../images/meditation_in_tall_grass.jpg" alt="Meditation in tall grass"></img></p>
 
@@ -20,22 +20,20 @@ ___________________
 
 <div class="columns">
 
-<p>In around 1200 hrs of my training so far I have been fortunate to study with some lovely teachers in both East and West. And I find if a beautiful challenge to try to marry Eastern humility and self-discipline with the Western view of yoga as freedom and empowerment. </p>
+<p>In over 1200 hrs of my training so far I have been fortunate to study with some lovely teachers in both East and West, focusing mostly on what we in the West would call yoga therapy. I'm really inspired by work of Doug Keller and Marc Beuvain.</p>
 
-Maybe the most transformative part of my journey has been studying classical yoga and yoga as therapy with The Yoga Institute Santacruz in Mumbai. The Institute is a modest, traditionally organised school with ashram. It was founded in 1918 by Shri Yogendra, disciple of Paramahamsa Madhavdasji and since then run by Yogendra family in spirit of Bhagavad Gita and karma yoga.</p>
-
-<p>During the summer and autumn I spent living at their ashram I had a chance to work in health camps dedicated to people with orthopaedic, cardiac and respiratory disorders, women during pregnancy and in postnatal period and children with special needs. And this was really a life-changing experience, understanding the true meaning of yoga of action.</p>
+One of the main highlights of my yoga journey has been studying classical yoga with The Yoga Institute Santacruz in Mumbai, India. The Institute is a modest, traditionally organised school with ashram. It was founded in 1918 by Shri Yogendra, disciple of Paramahamsa Madhavdasji and since then run by Yogendra family in spirit of Bhagavad Gita and karma yoga. During the summer and autumn I spent living at their ashram I could dedicate my time to in-depth study of Patanjali's Yoga Sutras and other classical yoga texts and volunteering in The Institute's health camps, teaching yoga to local people.</p>
 
 <p class="centeredimage"><img src="../images/teaching_in_india.jpg" alt="Teaching in India"></img></p>
 
-<p>This October I was lucky to attend an intensive training in anatomy and yoga as therapy with Doug Keller at Yogacampus, during his year's stay in London. And I have continued to study Doug's extensive work in spite of the distance, fascinated by his research bringing together Ayurveda with contemporary myofascial work, understanding biomechanics of our body and its energetic background.</p>
+<p>Last October I was lucky to study anatomy and yoga as therapy with Doug Keller, during his year's stay in London. And I have continued to study Doug's extensive work in spite of the distance, fascinated by his research bringing together Ayurveda with contemporary myofascial work, understanding biomechanics of our body and its energetic background.</p>
 </div>
 
 ___________________
 
 <div class="columns">
 
-<p>In my view a good yoga teacher should be just an unobtrusive facilitator of each student's personal practice. So this would be my teaching ideal. A yoga teacher should be like a gardener. The only thing he/she can do is to create favourable conditions for each plant to grow, making sure there is enough sun or shade, if that is what a certain flower needs, the soil is humid and fertile. But it's up to each flower to grow - at its own pace and as unique as it is.</p>
+<p>In my view a good yoga teacher should be just an unobtrusive facilitator of each student's own practice. So this would be my teaching ideal. A yoga teacher should be like a gardener. The only thing he/she can do is to try to create perfect conditions for each plant to grow, making sure there is enough sun or shade, the soil is humid and fertile. But it's up to each flower to grow - at its own pace and as unique as it is.</p>
 
 <p class="centeredimage"><img src="../images/Vajrasana.jpg" alt="Vajrasana"></img></p>
 
