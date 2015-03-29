@@ -10,6 +10,8 @@ I earlier wrote a post about meditation and then a student of mine asks me the o
 
 If you don’t have much previous experience with meditation, maybe the most comfortable place to start would be mindfulness meditation - a beautifully simple practice of sitting still and focussing on the breath. You really don’t need much, just a little bit of time when you won’t be distracted and a comfortable position in which the body won’t complain. The rest is already there. So let’s start.
 
+<p class="centeredimage"><img src="/images/blur-meditation.jpg" alt="a person meditating"></img></p>
+
 ### 1. Pick time and place for your practice
 
 For the beginning you might choose to dedicate a special corner of your home to meditation, trying to associate this place with the attitude of quietude and introspection. However, once you get comfortable with the technique you can meditate anywhere else too - on the public transport commuting to work, sitting on a park bench (my favourite one in summer) or in the office when you want to clear your mind in between meetings.
@@ -20,13 +22,11 @@ I personally find it the easiest to meditate straight after waking up in the mor
 
 Oh, and it’s quite useful, especially in the beginning, to set the timer for ending the practice. Pick some gentle, unobtrusive sound if you can, so your heart doesn’t skip the beat when woken up from the silence.
 
-<p class="centeredimage"><img src="/images/blur-meditation.jpg" alt="a person meditating"></img></p>
-
 ### 2. Choose the right position
 
 It's really important to find a comfortable position, so you can maintain stillness without worrying too much about the body. However you shouldn't be as comfortable as to fall asleep. Meditation is not the same as relaxation. In relaxation we just release the mind, allow it to relax with the body. In meditation the mind stays alert maintaining a sort of relaxed focus. So, find a position which is steady and comfortable for the body, yet allowing you to stay awake and alert.
 
-If you are a beginner, you can simply sit on a hard chair with your back supported (to avoid slouching) and feet touching the floor. If you want you can also sit cross-legged on the floor with the back upright. If the hips feel a bit tight and the lower back is rounding it might be a good idea to sit on a cushion or two (until the knees are lower than the hips) so you don't need to constantly fight the gravity as it pulls the knees towards the floor). You can also kneel, sitting on a couple of cushions with a blanket under the knees or find any another sustainable upright position. I really wouldn't recommend lying down, it would be just too easy to fall asleep.
+If you are a beginner, you can simply sit on a hard chair with your back supported (to avoid slouching) and feet touching the floor. If you want you can also sit cross-legged on the floor with the back upright. If the hips feel a bit tight and the lower back is rounding it might be a good idea to sit on a cushion or two. Once the knees are lower than the hips and you don't need to constantly fight the gravity as it pulls the knees towards the floor, you might find the cross-legged position really comfortable. You can also kneel, sitting on a couple of cushions with a blanket under the knees or find any another sustainable upright position. I really wouldn't recommend lying down, it would be just too easy to fall asleep.
 
 ### 3. Become aware of your surroundings 
 
@@ -52,9 +52,7 @@ Take a moment to listen to your breath as it is. Observe how the body is breathi
 
 ### 6. Stay with the breath 
 
-And now the main trick - stay focused on the breath, as everything else keeps moving and changing. Just let the mind rest on the rhythm of your breathing as it is - right now, at this very moment.
-
-This could be a bit difficult in the beginning, so you might prefer to count the breaths. You can count both inhalations and exhalations, so none of them passes unnoticed. This is a great focus exercise and sooner than you think you will find that you can keep the mind on each breath even without counting.
+And now the main trick - stay focused on the breath, as everything else keeps moving and changing. Just let the mind rest on the rhythm of your breathing as it is - right now, at this very moment. This could be a bit difficult in the beginning, so you might prefer to count the breaths. You can count both inhalations and exhalations, so none of them passes unnoticed. This is a great focus exercise and sooner than you think you will find that you can keep the mind on each breath even without counting.
 
 As you stay still watching the breath, let the mind unfold thoughts but try to not get involved. Just step back and watch them as if being projected on a screen. Sometimes these will be your to-do-lists creeping in, thousands of things that you need to finish and problems that need to be solved. Or maybe sometimes you can have memories coming up, people, places and emotions. Don’t judge them, don’t try to stop them. No effort at all. Just let them happen, staying open as they roll through you and pass away. If the mind runs away be patient and bring it gently back to the rhythm of the breath.
 
