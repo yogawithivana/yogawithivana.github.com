@@ -3,7 +3,7 @@ layout: post
 title: "So how do I meditate?"
 date: 2015-02-12 22:26
 comments: true
-categories: [mindfulness, meditation]
+categories: [mindfulness, meditation, practice]
 ---
 
 I earlier wrote a post about meditation and then a student of mine asks me the other day: but how do I actually meditate? Where do I begin? So I've decided to write one more, a bit more practical post, about starting your own meditation practice.

@@ -6,7 +6,7 @@ comments: true
 categories: [mindfulness, meditation, Yoga Sutras]
 ---
 
-Meditation is not just an Eastern esoteric practice, as some might think. In one form or another and under different names it has been around for centuries in both East and West. It has been practised by monks, mystics and intellectuals alike - from St. Thomas Aquinas to Nikola Tesla and Sherlock Holmes who liked to simply sit down and ["throw his brain out of action"](http://www.nytimes.com/2012/12/16/opinion/sunday/the-power-of-concentration.html?smid=tw-share&_r=0) before solving any difficult case.
+Meditation is not just an Eastern esoteric practice. In one form or another and under different names it has been around for centuries in both East and West. It has been practised by monks, mystics and intellectuals alike - from St. Thomas Aquinas to Nikola Tesla and Sherlock Holmes who liked to simply sit down and ["throw his brain out of action"](http://www.nytimes.com/2012/12/16/opinion/sunday/the-power-of-concentration.html?smid=tw-share&_r=0) before solving any difficult case.
 
 The word meditation itself can mean different things for different people - focusing on the breath, mantra, a sound, an object or an area of the body, keeping the eyes closed or open. But what is it that all these different techniques have in common? It's bringing together focus and relaxation (creating a sort of a "relaxed focus"). Taking a moment to stop and dive inwards, watching whatever comes up in the body and mind with a detached, witness-like attitude. 
 

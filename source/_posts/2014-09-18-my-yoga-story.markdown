@@ -3,7 +3,7 @@ layout: post
 title: "My Yoga Story"
 date: 2012-02-18 12:33
 comments: true
-categories: [journey, silence, movement]
+categories: [yoga, journey, silence, movement]
 ---
 
 Trying to describe the difference yoga has made in my life, I would compare it with the sun behind and out of clouds. Everything is still standing where it used to be, but painted in brighter, more vibrant colours, feeling fuller, richer and more real. Yoga brought together so many different puzzle pieces that I was collecting for years, encompassing values that I was unknowingly developing throughout my life. It felt like coming home - everything gently clicked into its place.

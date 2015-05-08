@@ -20,15 +20,18 @@ ___________________
 
 <div class="columns">
 
-<p>In over 1200 hrs of my training so far I have been fortunate to study with some lovely teachers in both East and West, focusing mostly on what we in the West would call yoga therapy. I'm really inspired by work of Doug Keller, Marc Beuvain and Uma Dinsmore-Tuli.</p>
+<p>In over 1200 hrs of my training so far I have been fortunate to study with some lovely teachers in both East and West, focusing mostly on classical yoga and yoga as therapy.</p>
 
-One of the main highlights of my yoga journey has been studying classical yoga with The Yoga Institute Santacruz in Mumbai, India. The Institute is a modest, traditionally organised school with ashram. It was founded in 1918 by Shri Yogendra, disciple of Paramahamsa Madhavdasji and since then run by Yogendra family in spirit of Bhagavad Gita and karma yoga. During the summer and autumn I spent living at their ashram I could dedicate my time to in-depth study of Patanjali's Yoga Sutras and other classical yoga texts and volunteering in The Institute's health camps, teaching yoga to local people.</p>
+<p>I did my first yoga teacher training with the Yoga Federation of Serbia, back in my home country, mostly based on Sivananda yoga and Bihar School of Yoga traditions.</p> 
+
+<p><a href="http://www.yogawithivana.com/thoughts/2012/02/18/my-yoga-story/">The journey</a> took me further to India where I studied classical yoga with The Yoga Institute in Santacruz East, Mumbai. The Institute is a modest, traditionally organised school with ashram. It was founded in 1918 by Shri Yogendra, disciple of Paramahamsa Madhavdasji and since then run by Yogendra family in spirit of Bhagavad Gita and karma yoga. During the summer and autumn I spent living at their ashram I could dedicate my time to in-depth study of Patanjali's Yoga Sutras and other classical yoga texts and volunteering in The Institute's health camps, teaching yoga to local people.</p>
+
+<p>Afer India, I attended a number of intensives at Yogacampus, London, mostly focussing on anatomy and yoga as therapy. And I continue to study, from my teachers and students alike and nurturing my own daily yoga and meditation practice.</p> 
 
 <p class="centeredimage"><img src="../images/teaching_in_india.jpg" alt="Teaching in India"></img></p>
 
-<p>Last October I was lucky to study anatomy and yoga as therapy with Doug Keller, during his year's stay in London. And I have continued to study Doug's extensive work in spite of the distance, fascinated by his research bringing together Ayurveda with contemporary myofascial work, understanding biomechanics of our body and its energetic background.</p>
+<p>I'm currently studying Doug Keller's work bringing together Ayurveda with contemporary myofascial research, understanding biomechanics of our body and its energetic background. I'm also fascinated with the more feminine approaches to yoga, especially the work of Donna Farhi and Uma Dinsmore-Tuli, finding the way to live the philosophy of Yoga Sutras through motherhood. In last couple of years I've been spending most of my time working with mums-to-be and new mums.</p>
 </div>
-
 ___________________
 
 <div class="columns">

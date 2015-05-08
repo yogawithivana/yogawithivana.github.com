@@ -26,7 +26,8 @@ GLL Ironmonger Row Baths</a>
 
 <h2>Thursday</h2>
 
-<p>12 noon – 1 pm postnatal yoga<br/>
+<p>12 noon – 1 pm <a href="http://local.mumsnet.com/hackney/postnatal-support-and-services/413863-postnatal-yoga">
+postnatal yoga</a><br/>
 at <a href="https://www.google.com/maps/place/Yoga+with+Ivana/@51.57656,-0.061476,17z/data=!3m1!4b1!4m2!3m1!1s0x48761c47a16c9833:0x63290ee9190cbacb?hl=en-GB">
 our Stamford Hill studio</a>, N16 6AN</p> 
 
