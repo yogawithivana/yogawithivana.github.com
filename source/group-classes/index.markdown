@@ -8,7 +8,7 @@ sidebar: false
 weight: 3
 ---
 
-<div>
+<p>My little daughter Ida was born on 27 July 2015 at our home in Stamford Hill. So, I'm away on maternity leave and really grateful to be spending this time living my yoga practice through being a mum. There some lovely people covering the classes in the meantime. Please get in touch to find out more.</p>
 
 <h1>Group classes schedule</h1>
 
@@ -24,22 +24,10 @@ Highbury and Islington, N5 1RR</p>
 GLL Ironmonger Row Baths</a>
 <br/>Old Street, EC1V 3AA</p>
 
-<h2>Thursday</h2>
-
-<p>12 noon – 1 pm <a href="http://local.mumsnet.com/hackney/postnatal-support-and-services/413863-postnatal-yoga">
-postnatal yoga</a><br/>
-at <a href="https://www.google.com/maps/place/Yoga+with+Ivana/@51.57656,-0.061476,17z/data=!3m1!4b1!4m2!3m1!1s0x48761c47a16c9833:0x63290ee9190cbacb?hl=en-GB">
-our Stamford Hill studio</a>, N16 6AN</p> 
-
-<p>NEW! 7 – 8 pm <a href="../antenatal-yoga-classes-in-stoke-newington/">pregnancy yoga</a></br> at
-<a href="https://www.google.com/maps/place/Yoga+with+Ivana/@51.57656,-0.061476,17z/data=!3m1!4b1!4m2!3m1!1s0x48761c47a16c9833:0x63290ee9190cbacb?hl=en-GB">
-our Stamford Hill studio</a>, N16 6AN</p>
-
-
 <h2>Saturday</h2>
 
 <p>11 am – 12 noon <a href="../yoga-stamford-hill-springfield-park/">
-Saturday mornings with yoga and tea</a><br/>
+gentle yoga and meditation</a><br/>
 at <a href="https://www.google.com/maps/place/Yoga+with+Ivana/@51.57656,-0.061476,17z/data=!3m1!4b1!4m2!3m1!1s0x48761c47a16c9833:0x63290ee9190cbacb?hl=en-GB">
 our Stamford Hill studio</a>, N16 6AN</p> 
 
@@ -50,4 +38,3 @@ our Stamford Hill studio</a>, N16 6AN</p>
 
 <p>Please ring 07936348233 or mail me@yogawithivana.com to book your spot!</p>
 
-</div>
