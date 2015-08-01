@@ -8,7 +8,7 @@ sidebar: false
 weight: 3
 ---
 
-<p>My little daughter Ida was born on 27 July 2015 at our home in Stamford Hill. So, I'm away on maternity leave and really grateful to be spending this time living my yoga practice through being a mum. There some lovely people covering the classes in the meantime. Please get in touch to find out more.</p>
+<p>My little daughter Ida was born on 27 July 2015 at our home in Stamford Hill. So, I'm away on maternity leave and really grateful to be spending this time living my yoga practice through being a mum. There are some lovely people covering the classes in the meantime, please get in touch to find out more.</p>
 
 <h1>Group classes schedule</h1>
 
