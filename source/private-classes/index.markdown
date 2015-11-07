@@ -12,6 +12,8 @@ weight: 4
 
 <p>Private tuition is a very rewarding way of practising where you can get full attention and a lot of feedback. The sessions are fully tailored to your needs and interests and can help you focus on a specific aim (e.g. losing weight, recovering from an injury), work on something that you've find difficult in a group class or would like to explore deeper. Please get in touch to find out more.</p>
 
+<p class="centeredimage extra-margin-bottom"><img src="../images/ornament.png"></img></p>
+
 <p class="centeredimage"><img src="../images/Bakasana.jpg" alt="Bakasana"></img></p>
 
 </div>

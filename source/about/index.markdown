@@ -38,6 +38,8 @@ ___________________
 
 <p>In my view a good yoga teacher should be just an unobtrusive facilitator of each student's own practice. So this would be my teaching ideal. A yoga teacher should be like a gardener. The only thing he/she can do is to try to create perfect conditions for each plant to grow, making sure there is enough sun or shade, the soil is humid and fertile. But it's up to each flower to grow - at its own pace and as unique as it is.</p>
 
+<p class="centeredimage extra-margin-bottom"><img src="../images/ornament.png"></img></p>
+
 <p class="centeredimage"><img src="../images/Vajrasana.jpg" alt="Vajrasana"></img></p>
 
 </div>

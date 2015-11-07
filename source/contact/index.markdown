@@ -18,6 +18,8 @@ weight: 6
   <a href="mailto:me@yogawithivana.com"><span class="email">me@yogawithivana.com</span></a>
 </p>
 
+<p class="centeredimage extra-margin-bottom"><img src="../images/ornament.png"></img></p>
+
 <p class="centeredimage"><img src="../images/LotusTwist.jpg" alt="Lotus Twist"></img></p>
 
 </div>
