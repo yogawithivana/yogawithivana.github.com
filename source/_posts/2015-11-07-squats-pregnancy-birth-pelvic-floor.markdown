@@ -1,0 +1,35 @@
+---
+layout: post
+title: "The forgotten art of untucking the tail"
+date: 2015-11-07 18:41
+comments: true
+categories: biomechanics, pelvic floor, pregnancy, birth
+---
+
+I’ve been spending most of my time lately learning about biomechanics, healthy alignment and how movement affects our bodies in relation to gravity. The research from the last couple of years shows that the way we move affect us not only mechanically, as it was previously thought, but also causing biochemical changes on cellular level, changing us from inside out. This process of the body adapting to and being shaped by movement is called mechanotransduction.
+
+We seem to be living in the world that encourages sitting with the tail tucked under. The furniture we use sitting all day is optimised for comfort and convenience, but usually not ergonomically adapted for pelvic floor health. Who would even think about that? There is a well spread myth in our society that pelvic floor issues are a normal consequence of pregnancy and birth, or ageing for men. But we would rarely think of looking for a cause a bit deeper, in the way we have been living and moving before that.
+
+<p class="centeredimage"><img src="/images/Squatting_girl_from_Java.jpg" alt="a photo of a girl squatting"></img></a></p>
+
+Did you know that the anatomic function of our reminiscent of a tail is, amongst others, to control opening and closing of the pelvic outlet. If you look at a dog, or a another tailed animal, you can see that they keep their tail up, happily wagging when they are in a good mood. And this is the default. When you see a dog wearing his tail down between his back legs, it is usually a sign that the dog is on the fight of flight mode and his pelvic floor is tense as a part of his whole body reacting to danger.
+
+Even though we now have only the beginning of what was once a real mammalian tail, it behaves the same. Untucking the tailbone opens the pelvic outlet, tucking it closes it - tightening the pelvic floor. The dog with his tail down between his legs is an equivalent of you sitting on your sacrum, the back supported by a chair or a couch. If you spend multiple hours a day in this position, your pelvic floor doesn’t really have a chance to release and allow the muscle fibres to regain their natural length at resting state. So gradually it shortens.
+
+In his book Pelvic Power, [Eric Franklin](http://franklinmethod.com/) compares natural movement of the pelvic floor to a kite. As you stand up the pelvic floor slightly lifts and narrows similarly to a kite picking the wind and taking off. Reversely, as you sit down (with untucked tail, using your sitbones) the pelvic floor widens and releases to its full length, like a kite descending down, opening and landing. But what if we never allow it to release?
+
+<p class="centeredimage"><img src="/images/kites_web.jpg" alt="kite flying"></img></a></p>
+
+Biomechanicist [Katy Bowman](http://www.katysays.com/category/pelvic-floor-stuffs/) compares an optimally functioning pelvic floor to a trampoline. It supports the weight of all our pelvic organs and allows any extra load to just bounce off its healthy, elastic fibres, tensing and releasing naturally. Keeping the muscles short all the time doesn’t let them perform their function optimally. And further on, as our bodies naturally adapt to the way we use them, we gradually end up with shortened muscles. 
+
+This is further exacerbated by using pelvic floor exercises (‘Kegels’) on ‘the more the better’ basis - Bowman explains. Doing more and more repetitions of contractions of the muscle isolated from the rest of the body without allowing it to ever fully release, you get a muscle that is tight and locked short. Tight muscle does NOT equal a strong muscle. A strong muscle is able to both fully contract and fully release.
+
+So why I am telling you all this now? Reading Katy Bowman’s last book - [Move Your DNA](http://www.goodreads.com/book/show/21988559-move-your-dna), I’ve started to incorporate more movement into my life other than and independently from exercising. And especially, I’ve started to squat more, when playing with my toddler, picking things off the floor and even going to the toilet.
+
+Learning to untuck my tail has made me finally realise why I still had to push my baby out and not bear it gently down, letting the gravity do the job, in spite of all the birth preparations and beautiful relaxation techniques I mastered beforehand. To "breathe the baby out" you have to first untuck your tail.
+
+Anatomically, in order for the baby to come out the pelvic floor has to release, but you can’t possibly release the pelvic floor with the tailbone tucked under. You can only use the strength of your muscles (transverse abdominals and diaphragm as they instruct you to hold your breath and “puuuuussssh!”) against your pelvic floor. And that’s a sure way to end up with a nice tear and possibly a pelvic floor disfunction. I was lucky that the athletic challenge, how my birth experience felt to be honest, ended without a severe damage. My body just took over at the last moment and following a very primal instinct jumped on a dining chair opening the pelvic outlet fully. The squats and kneeling with rounded back would have probably taken me to an assisted delivery.
+
+"Modern birthing science has placed a large burden on secreted hormones (like relaxin) to prepare the body for needed mobility." Katy Bowman says. Yes, hormon relaxine is useful in letting the body open up for the birth, but it’s not enough, unless we have strong muscles that can fully contract, but also fully release. But then, strong isolated muscles are not enough either. In order to have smooth births we ned to have a whole-body endurance. A great way to develop endurance is to walk as much as you can. "The woman who wants to go about a birthing process naturally can follow the lead other “natural” processes women have been doing for millennia – walking 5-6 total miles per day, and squatting to bathroom multiple times daily." - she adds.
+
+So, the bottom line is: untuck the tail. Walk more and move more, in general and especially when pregnant. Making even tiny adjustments towards moving more and moving better we can give our bodies a chance to function up to their very best.
