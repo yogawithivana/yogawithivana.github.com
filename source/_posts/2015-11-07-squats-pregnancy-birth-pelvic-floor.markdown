@@ -6,11 +6,11 @@ comments: true
 categories: biomechanics, pelvic floor, pregnancy, birth
 ---
 
+<p class="centeredimage"><img src="/images/squat-illustration.png" alt="squat illustration"></img></a></p>
+
 I’ve been spending most of my time lately learning about biomechanics, healthy alignment and how movement affects our bodies in relation to gravity. The research from the last couple of years shows that the way we move affect us not only mechanically, as it was previously thought, but also causing biochemical changes on cellular level, changing us from inside out. This process of the body adapting to and being shaped by movement is called mechanotransduction.
 
 We seem to be living in the world that encourages sitting with the tail tucked under. The furniture we use sitting all day is optimised for comfort and convenience, but usually not ergonomically adapted for pelvic floor health. Who would even think about that? There is a well spread myth in our society that pelvic floor issues are a normal consequence of pregnancy and birth, or ageing for men. But we would rarely think of looking for a cause a bit deeper, in the way we have been living and moving before that.
-
-<p class="centeredimage"><img src="/images/Squatting_girl_from_Java.jpg" alt="a photo of a girl squatting"></img></a></p>
 
 Did you know that the anatomic function of our reminiscent of a tail is, amongst others, to control opening and closing of the pelvic outlet. If you look at a dog, or a another tailed animal, you can see that they keep their tail up, happily wagging when they are in a good mood. And this is the default. When you see a dog wearing his tail down between his back legs, it is usually a sign that the dog is on the fight of flight mode and his pelvic floor is tense as a part of his whole body reacting to danger.
 
