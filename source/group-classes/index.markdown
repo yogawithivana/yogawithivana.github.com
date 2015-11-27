@@ -26,8 +26,7 @@ GLL Ironmonger Row Baths</a>
 
 <h2>Saturday</h2>
 
-<p>11 am – 12 noon <a href="../yoga-stamford-hill-springfield-park/">
-gentle yoga and meditation</a><br/>
+<p>11 am – 12 noon <a href="http://www.yogawithivana.com/yoga-meditation-stamford-hill-springfield-tottenham/">gentle yoga and meditation</a><br/>
 at <a href="https://www.google.com/maps/place/Yoga+with+Ivana/@51.57656,-0.061476,17z/data=!3m1!4b1!4m2!3m1!1s0x48761c47a16c9833:0x63290ee9190cbacb?hl=en-GB">
 our Stamford Hill studio</a>, N16 6AN</p> 
 

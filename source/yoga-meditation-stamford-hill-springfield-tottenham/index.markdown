@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Yoga Stamford Hill Springfield Park"
+title: "Yoga Meditation Stamford Hill Springfield Tottenham"
 comments: false
 sidebar: false
 sharing: true
@@ -13,7 +13,7 @@ footer: true
       
       <h2>Saturday morning yoga</h2>
         
-    <p>The class is focusing on realigning and gently strengthening the body from inside out - combining yoga, mindfulness and restorative exercise. Suitable for any level of ability.</p> 
+<p>The class is focusing on realigning and gently strengthening the body from inside out - combining yoga, mindfulness and restorative exercise. Suitable for any level of ability.</p> 
       
 
     <p>Price: £50 for 5 classes or £12 drop in</p>

@@ -16,10 +16,7 @@ I find it interesting that newer research in fitness puts more accent on eccentr
 
 <p class="centeredimage"><img src="/images/brushes.jpeg" alt="two shaving brushes"></img></p>
 
-Intrestingly, this is a type of contraction that is common to different types of skeletal muscles that inherently work differently. According to one of the most widely accepted categorisations of muscles set fort by [Vladimir Janda](http://www.jandaapproach.com/about/) in 1970-es, the skeletal muscles are either:
-
-* postural - that maintain the contraction / resistance to hold the bones in place and
-* phasic - that contract when needed in order to move the bones.
+Intrestingly, this is a type of contraction that is common to different types of skeletal muscles that inherently work differently. According to one of the most widely accepted categorisations of muscles set fort by [Vladimir Janda](http://www.jandaapproach.com/about/) in 1970-es, the skeletal muscles are either: postural - that maintain the contraction / resistance to hold the bones in place, or phasic - that contract when needed in order to move the bones.
 
 These two don’t just work differently, they are fuelled by a different substance too. The postural muslcles are fueled by oxygen and as such are slow to fatigue and can work continuously without us even thinking about them. This is how we are supposed to maintain out posture against the gravity without getting tired.
 
