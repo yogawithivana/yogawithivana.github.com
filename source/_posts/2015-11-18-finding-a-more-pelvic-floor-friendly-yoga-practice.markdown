@@ -19,8 +19,6 @@ The problem is, ‘tuck the tailbone’ could be:
 
 * *Bad for your pelvic floor* — keeping the tailbone under we decrease the space between the pubic bone and the tailbone i.e. shorten the pelvic floor. Continuously contracting the pelvic floor while keeping it short [will pull the sacrum into the bowl of the pelvis causing your pelvic floor to slack.](http://mamasweat.blogspot.co.uk/2010/05/pelvic-floor-party-kegels-are-not.html) Doing more ‘strengthening’ work with your tail tucked under will make your pelvic floor even shorter and tighter, but not stronger. Unlike the TVA that (as a purely stabilising muscle) can work for longer periods of time, [the pelvic floor should activate only when we need an extra burst of energy](http://www.somatics.de/Godard/ReadingBodyInDance.pdf) and then release to its full length. ‘Keeping it lifted’ = pelvic floor disorders in a long term.
 
-There are a couple of alternatives that could help us avoid the pitfalls of of ‘tucking the tailbone under’.
-
 A more pelvic-floor-friendly way to perform mulabandha, would be to **keep the pelvis in a neutral position** and try to initiate the lift from midway in between the openings without tucking the tailbone.
 
 *Keeping the tail untucked we can strengthen and lengthen muscles of the pelvic floor (eccentric contraction) instead of shortening them (concentric contraction).*
@@ -42,4 +40,7 @@ Having the spine in a neutral position is different for every person, but it bas
 If you go into a backbend, you get support mostly from the front (TVA) which gradually weakens deeper you arch the lower back. And then again, if you tuck the tailbone under scooping the pelvis and flattening the lower back, the multifidus muscles can’t activate to stabilise from the back. Of course you should move freely in your postural practice, but still be aware that deeper you go to each extreme in moving the pelvis and the lumbar spine, less stability you have and more you are exposed to injuries.
 
 I personally try to avoid tucking the tailbone hint even in case of working with people who have difficulty in activating their pelvic floor and deep abdominal muscles (e.g. after childbirth). Instead of using action of the tailbone to help in developing awareness of the ‘undercarriage’ I find it useful to make them squeeze a block or a small ball with the thighs while trying to gently tone the lower belly, just above the pubic bone, keeping the pelvis in a neutral position.
+
 Please don’t take me wrong, tucking the tailbone is not bad in itself and please by all means do it as a part of your varied movement diet! But there is really no need to use it as default when practising yoga or living our lives.
+
+This post was also published on [Medium](https://medium.com/@zzuuu/why-not-to-tuck-the-tailbone-in-a-yoga-class-d088c5592066#.jwgczqdkv)

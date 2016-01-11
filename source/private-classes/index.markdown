@@ -10,9 +10,7 @@ weight: 4
 
 <div class="columns">
 
-<p>Private tuition is a very rewarding way of practising where you can get full attention and a lot of feedback. The sessions are fully tailored to your needs and interests and can help you focus on a specific aim (e.g. losing weight, recovering from an injury), work on something that you've find difficult in a group class or would like to explore deeper. Please get in touch to find out more.</p>
-
-<p class="centeredimage extra-margin-bottom"><img src="../images/ornament.png"></img></p>
+<p>One-to-ones are a very rewarding way of practising - at your own pace, with full attention and a lot of feedback. You can focus on a specific aim (e.g. recovering from an injury, improving a chronic health problem), or maybe give more time to something that you found difficult in a group class or would like to explore deeper. We will work together to develop a practice that is totally suited to you and you can integrate it into your daily life. Please mail me for a brochure with more details.</p>
 
 <p class="centeredimage"><img src="../images/Bakasana.jpg" alt="Bakasana"></img></p>
 
@@ -20,11 +18,13 @@ weight: 4
 
 <div style="text-align: center;">
 
-<h2>Workplace yoga</h2>
+<h2>Workplace yoga and mindfulness</h2>
 
 
-<p>Practice with your colleagues before work, on your lunchbreak or after work. I can arrange a trial class any time that suits you.</p>
+<p>Practice with your colleagues before or after work or on your lunchbreak. Please get in touch for prices and availability.</p>
 
-<p>Special discount available for ethical businesses and tech start-ups.</br> Please call or mail me for more details.</p>
+<p>Special discount available for ethical businesses and tech start-ups.</p>
+
+<p>24 hour cancelation policy applies.<p/>
 
 </div>

@@ -10,9 +10,13 @@ weight: 2
 
 <div class="columns">
 
-<p>Hi there! My name is Ivana. I'm a yoga practitioner, a teacher and a mum to a lively toddler who makes me learn something new every day. I find great inspiration in Indian philosophy, non-violence, movement and silence. I'm also a bit of a science geek, passionate about understanding our bodies and how to optimise them. I have a soft spot for hazelnuts, film and rooftops and you can usually find me singing on the bicycle.</p>
+<p> My name is Ivana Demmel. I’m a yoga and mindfulness teacher and a mum to two lively little people who make me learn something new every day. I am also a movement therapist, passionate about barefoot shoes and rediscovering natural, real life movement, as opposed to exercise only. I have a soft spot for independent films and cycling with babies and you can usually find me singing on our family tricycle.</p>
 
-<p class="centeredimage"><img src="../images/meditation_in_tall_grass.jpg" alt="Meditation in tall grass"></img></p>
+<p class="centeredimage extra-margin-top extra-margin-top extra-margin-bottom"><img src="../images/yoga-feet.jpg" alt="practising yoga with my tiny one"></img></p>
+
+<p class="centeredimage extra-margin-top"><img src="../images/we-copy.jpg" alt="me and my family"></img></p>
+
+<p class="centeredimage extra-margin-top"><img src="../images/meditation_in_tall_grass.jpg" alt="meditating in tall grass"></img></p>
 
 </div>
 
@@ -20,27 +24,26 @@ ___________________
 
 <div class="columns">
 
-<p>In over 1200 hrs of my training so far I have been fortunate to study with some lovely teachers in both East and West, focusing mostly on classical yoga and yoga as therapy.</p>
+<p>In over 1200 hrs of my formal yoga training so far I have been fortunate to study with some lovely teachers in both East and West, focusing mostly on classical yoga philosophy and yoga as therapy. I’ve been especially influenced by Donna Farhi and her approach to working with the body and the breath. I don’t see teaching yoga as a profession but a journey towards cultivating balance and equanimity in ups and downs of life, cultivating self-studying (swadhyaya) and learning as a way of living. The journey never ends.</p> 
 
-<p>I did my first yoga teacher training with the Yoga Federation of Serbia, back in my home country, mostly based on Sivananda yoga and Bihar School of Yoga traditions.</p> 
+<p>In last two years my passion for movement extended  to somatics, structural integration and dance. I also started being more interested in science of movement,  especially influenced by research and writing of biomechanicist Katy Bowman. I started learning physics, trying to understand loads and how movement affects us in relation to gravity.</p>
 
-<p><a href="http://www.yogawithivana.com/thoughts/2012/02/18/my-yoga-story/">The journey</a> took me further to India where I studied classical yoga with The Yoga Institute in Santacruz East, Mumbai. The Institute is a modest, traditionally organised school with ashram. It was founded in 1918 by Shri Yogendra, disciple of Paramahamsa Madhavdasji and since then run by Yogendra family in spirit of Bhagavad Gita and karma yoga. During the summer and autumn I spent living at their ashram I could dedicate my time to in-depth study of Patanjali's Yoga Sutras and other classical yoga texts and volunteering in The Institute's health camps, teaching yoga to local people.</p>
+<p>I’m currently doing a one year course in biomechanics with Katy Bowman’s Restorative Exercise Institute and also studying Tom Myers’ work with Anatomy Trains, exploring the role of fascia in healthy movement and postural deviations. I’m also fascinated with work of physiotherapist and researcher Diane Lee focusing on pelvic girdle. I’ve been lately particularly interested in pelvic health and working with people with chronic pain.</p>
 
-<p>Afer India, I attended a number of intensives at Yogacampus, London, mostly focussing on anatomy and yoga as therapy. And I continue to study, from my teachers and students alike and nurturing my own daily yoga and meditation practice.</p> 
+<p class="centeredimage"><img src="../images/ornament.png"></img></p>
 
-<p class="centeredimage"><img src="../images/teaching_in_india.jpg" alt="Teaching in India"></img></p>
-
-<p>I'm currently studying Doug Keller's work bringing together Ayurveda with contemporary myofascial research, understanding biomechanics of our body and its energetic background. I'm also fascinated with the more feminine approaches to yoga, especially the work of Donna Farhi and Uma Dinsmore-Tuli, finding the way to live the philosophy of Yoga Sutras through motherhood. In last couple of years I've been spending most of my time working with mums-to-be and new mums.</p>
 </div>
 ___________________
 
 <div class="columns">
 
-<p>In my view a good yoga teacher should be just an unobtrusive facilitator of each student's own practice. So this would be my teaching ideal. A yoga teacher should be like a gardener. The only thing he/she can do is to try to create perfect conditions for each plant to grow, making sure there is enough sun or shade, the soil is humid and fertile. But it's up to each flower to grow - at its own pace and as unique as it is.</p>
-
-<p class="centeredimage extra-margin-bottom"><img src="../images/ornament.png"></img></p>
+<p>In my view a good yoga teacher should be just a gentle facilitator of each student's own practice. So this would be my teaching ideal. A yoga teacher should be like a gardener - creating perfect conditions for each plant to grow, making sure there is enough sun or shade, the soil is humid and fertile. But it's up to each flower to grow - at its own pace and as unique as it is.</p>
 
 <p class="centeredimage"><img src="../images/Vajrasana.jpg" alt="Vajrasana"></img></p>
+
+<p>I approach yoga as an invitation to listen - stepping out of your everyday rush and worries into a comfortable and soothing environment where you can allow yourself to simply breathe and move, cultivating awareness of the body and movement, observing the mind’s patterns, thoughts and feelings as they come and go - learning how to be present to whatever there is and listen, without judgement, without discomfort.</p>
+
+<p>I find it important to create a non competitive atmosphere in my classes - both one to ones and in group class context - inviting students to explore and experience movement with curiosity instead of forcing themselves to perform better. Instead of pushing boundaries we try to cultivate patience in working with the body, allowing it to gradually adapt to a better alignment, become stronger and more flexible.</p>
 
 </div>
 
