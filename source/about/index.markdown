@@ -10,7 +10,7 @@ weight: 2
 
 <div class="columns">
 
-<p> My name is Ivana Demmel. I’m a yoga and mindfulness teacher and a mum to two lively little people who make me learn something new every day. I am also a movement therapist, passionate about barefoot shoes and rediscovering natural, real life movement, as opposed to exercise only. I have a soft spot for independent films and cycling with babies and you can usually find me singing on our family tricycle.</p>
+<p> My name is Ivana Demmel. I’m a yoga and mindfulness teacher and a mum to two lively little people who make me learn something new every day. I am also a movement therapist, passionate about barefoot shoes and rediscovering natural, real world movement, as opposed to exercise only. I have a soft spot for independent films and cycling with babies and you can usually find me singing on our family tricycle.</p>
 
 <p class="centeredimage extra-margin-top extra-margin-top extra-margin-bottom"><img src="../images/yoga-feet.jpg" alt="practising yoga with my tiny one"></img></p>
 
@@ -28,7 +28,7 @@ ___________________
 
 <p>In last two years my passion for movement extended  to somatics, structural integration and dance. I also started being more interested in science of movement,  especially influenced by research and writing of biomechanicist Katy Bowman. I started learning physics, trying to understand loads and how movement affects us in relation to gravity.</p>
 
-<p>I’m currently doing a one year course in biomechanics with Katy Bowman’s Restorative Exercise Institute and also studying Tom Myers’ work with Anatomy Trains, exploring the role of fascia in healthy movement and postural deviations. I’m also fascinated with work of physiotherapist and researcher Diane Lee focusing on pelvic girdle. I’ve been lately particularly interested in pelvic health and working with people with chronic pain.</p>
+<p>I’m currently taking the 52 Weeks of EveryBody Biomechanics course with Katy Bowman’s Nutritious Movement™ as part of their two year certification programme for Restorative Exercise Personal Trainer certificate. I’m also fascinated with and studying Tom Myers’ work with Anatomy Trains, exploring the role of fascia in healthy movement and postural deviations.</p>
 
 <p class="centeredimage"><img src="../images/ornament.png"></img></p>
 
