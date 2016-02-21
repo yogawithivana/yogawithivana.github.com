@@ -24,7 +24,9 @@ ___________________
 
 <div class="columns">
 
-<p>In over 1200 hrs of my formal yoga training so far I have been fortunate to study with some lovely teachers in both East and West, focusing mostly on classical yoga philosophy and yoga as therapy. I’ve been especially influenced by Donna Farhi and her approach to working with the body and the breath. I don’t see teaching yoga as a profession but a journey towards cultivating balance and equanimity in ups and downs of life, cultivating self-studying (swadhyaya) and learning as a way of living. The journey never ends.</p> 
+<p>In nearly 1200 hrs of my formal yoga training so far I have been fortunate to study with some lovely teachers in both East and West, focusing mostly on classical yoga philosophy and yoga as therapy. I’ve been especially influenced by Donna Farhi and her approach to working with the body and the breath.</p>
+
+<p>I don’t see teaching yoga as a profession but a journey towards cultivating balance and equanimity in ups and downs of life, cultivating self-studying (swadhyaya) and learning as a way of living. The journey never ends.</p> 
 
 <p>In last two years my passion for movement extended  to somatics, structural integration and dance. I also started being more interested in science of movement,  especially influenced by research and writing of biomechanicist Katy Bowman. I started learning physics, trying to understand loads and how movement affects us in relation to gravity.</p>
 
