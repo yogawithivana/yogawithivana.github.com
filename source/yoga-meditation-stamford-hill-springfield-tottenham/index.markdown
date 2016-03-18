@@ -13,12 +13,12 @@ footer: true
       
       <h2>Saturday morning yoga</h2>
         
-<p>The class is focusing on realigning and gently strengthening the body from inside out - combining yoga, mindfulness and restorative exercise. Suitable for any level of ability.</p> 
+<p>Gentle, soothing yoga in the morning sun. The class is focusing on restoring natural alignment and strengthening the body from inside out - combining mindfulness, movement and breath inquires. Suitable for any level of ability.</p> 
       
 
     <p>Price: £50 for 5 classes or £12 drop in</p>
     
-    <p>Saturdays 11 am - 12 noon</p>
+    <p>Saturdays 11 am - 12:15</p>
  
 	<p>Address:</br>
  
