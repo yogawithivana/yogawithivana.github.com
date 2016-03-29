@@ -30,7 +30,7 @@ ___________________
 
 <p>In last two years my passion for movement extended  to somatics, structural integration and dance. I also started being more interested in science of movement,  especially influenced by research and writing of biomechanicist Katy Bowman. I started learning physics, trying to understand loads and how movement affects us in relation to gravity.</p>
 
-<p>I’m currently taking the 52 Weeks of EveryBody Biomechanics course with Katy Bowman’s Nutritious Movement™ as part of their two year certification programme for Restorative Exercise Personal Trainer certificate. I’m also fascinated with and studying Tom Myers’ work with Anatomy Trains, exploring the role of fascia in healthy movement and postural deviations.</p>
+<p>I’m currently studying biomechanics with Nutritious Movement™ as part of their two year certification programme. I’m also fascinated with and studying Tom Myers’ work with Anatomy Trains, exploring the role of fascia in healthy movement and postural deviations.</p>
 
 <p class="centeredimage"><img src="../images/ornament.png"></img></p>
 
