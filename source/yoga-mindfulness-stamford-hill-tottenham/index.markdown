@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Yoga Meditation Stamford Hill Springfield Tottenham"
+title: "Yoga Mindfulness Stamford Hill Tottenham"
 comments: false
 sidebar: false
 sharing: true
@@ -18,7 +18,7 @@ footer: true
 
     <p>Price: £50 for 5 classes or £12 drop in</p>
     
-    <p>Saturdays 11 am - 12:15</p>
+    <p>Saturdays 11 am - 12:30</p>
  
 	<p>Address:</br>
  
